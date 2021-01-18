@@ -4,8 +4,10 @@ import AppBar from '@material-ui/core/AppBar';
 import Hidden from '@material-ui/core/Hidden';
 import { makeStyles, ThemeProvider } from '@material-ui/core/styles';
 import Toolbar from '@material-ui/core/Toolbar';
+import ChatPanelToggleButton from 'app/fuse-layouts/shared-components/chatPanel/ChatPanelToggleButton';
 import NavbarMobileToggleButton from 'app/fuse-layouts/shared-components/NavbarMobileToggleButton';
 import QuickPanelToggleButton from 'app/fuse-layouts/shared-components/quickPanel/QuickPanelToggleButton';
+import UserMenu from 'app/fuse-layouts/shared-components/UserMenu';
 import clsx from 'clsx';
 import React from 'react';
 import { useSelector } from 'react-redux';
@@ -44,14 +46,20 @@ function ToolbarLayout1(props) {
 						</Hidden>
 					</div>
 
-					<div className="flex items-center px-16">
+					<div className="flex items-center px-8">
 						<LanguageSwitcher />
 
 						<FullScreenToggle />
 
 						<FuseSearch />
 
+						<Hidden lgUp>
+							<ChatPanelToggleButton />
+						</Hidden>
+
 						<QuickPanelToggleButton />
+
+						<UserMenu />
 					</div>
 
 					{config.navbar.display && config.navbar.position === 'right' && (
