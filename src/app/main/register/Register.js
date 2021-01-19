@@ -62,13 +62,13 @@ function Register() {
 									<div className="border-l-1 mr-4 w-1 h-40" />
 									<div>
 										<Typography className="text-24 font-800 logo-text" color="inherit">
-											FUSE
+											MobiCycle
 										</Typography>
 										<Typography
 											className="text-16 tracking-widest -mt-8 font-700"
 											color="textSecondary"
 										>
-											REACT
+											USA
 										</Typography>
 									</div>
 								</div>
@@ -136,8 +136,7 @@ function Register() {
 
 							<FuseAnimate delay={500}>
 								<Typography variant="subtitle1" color="inherit" className="mt-32">
-									Powerful and professional admin template for Web Applications, CRM, CMS, Admin
-									Panels and more.
+									Technology for the management of elecronic waste.
 								</Typography>
 							</FuseAnimate>
 						</div>
