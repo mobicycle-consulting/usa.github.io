@@ -1,0 +1,600 @@
+.root {
+  display: inline-flex;
+  width: auto;
+  height: auto;
+  position: relative;
+}
+.headerComponent {
+  width: 1200px;
+  height: 662px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.rectangle {
+  width: 100%;
+  height: 662px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  background: rgba(255, 255, 255, 1);
+}
+.frame {
+  width: 100%;
+  height: 662px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle2 {
+  width: 100%;
+  height: 662px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame2 {
+  width: 56%;
+  height: 662px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle3 {
+  width: 100%;
+  height: 662px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  background: rgba(255, 255, 255, 1);
+}
+.frame3 {
+  width: 100%;
+  height: 64px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle4 {
+  width: 100%;
+  height: 64px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame4 {
+  width: 90.47%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 24px;
+  left: 4.76%;
+}
+.rectangle5 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame5 {
+  width: 9.04%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle6 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame6 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle7 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame7 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle8 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle9 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  background: url("./images/rectangle.png") center center / cover no-repeat
+    padding-box border-box scroll;
+}
+.frame8 {
+  width: 80.26%;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 8px;
+  left: 15.62%;
+}
+.rectangle10 {
+  width: 100%;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame9 {
+  width: 14.34%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 2px;
+  left: 20.49%;
+}
+.rectangle11 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__u5Sfh {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: -2px;
+  left: 0%;
+  width: 100%;
+}
+.frame10 {
+  width: 13.11%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 2px;
+  left: 67.62%;
+}
+.rectangle12 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame11 {
+  width: 19.67%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 2px;
+  left: 41.39%;
+}
+.rectangle13 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__azWqi {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: -2px;
+  left: 0%;
+  width: 100%;
+}
+.frame12 {
+  width: 13.93%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 2px;
+  left: 0%;
+}
+.rectangle14 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__japi7 {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: -2px;
+  left: 0%;
+  width: 100%;
+}
+.frame13 {
+  width: 104.91%;
+  height: 359px;
+  display: block;
+  position: absolute;
+  top: 174px;
+  left: 0%;
+}
+.rectangle15 {
+  width: 100%;
+  height: 406px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame14 {
+  transform: translate(-0.42900000000000205px, 0px);
+  width: 90.49%;
+  height: 406px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 4.82%;
+}
+.rectangle16 {
+  width: 100.02%;
+  height: 406px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame15 {
+  transform: translate(0.428px, 0px);
+  width: 100.02%;
+  height: 180px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle17 {
+  width: 100.02%;
+  height: 180px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame16 {
+  width: 100.17%;
+  height: 132px;
+  display: block;
+  position: absolute;
+  top: 54px;
+  left: 0%;
+}
+.rectangle18 {
+  width: 100.07%;
+  height: 132px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__uLFbO {
+  display: block;
+  font-size: 60px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  line-height: 60px;
+  color: rgba(78, 69, 228, 1);
+  position: absolute;
+  top: 15px;
+  left: 0%;
+  width: 100.07%;
+}
+.frame17 {
+  transform: translate(-0.336px, 0px);
+  width: 100.17%;
+  height: 96px;
+  display: block;
+  position: absolute;
+  top: -30px;
+  left: 0%;
+}
+.rectangle19 {
+  width: 100.07%;
+  height: 72px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__nokgY {
+  display: block;
+  font-size: 60px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  line-height: 60px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 100.07%;
+}
+.frame18 {
+  transform: translate(0.42800000000000005px, 0px);
+  width: 100.02%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 367px;
+  left: -0.16%;
+}
+.rectangle20 {
+  width: 100.02%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.buttonLiveDemo {
+  transform: translate(-0.47399999999998954px, 0px);
+  width: 28.21%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 31.98%;
+}
+.rectangle21 {
+  width: 100.33%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame19 {
+  width: 100.33%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle22 {
+  width: 100.33%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  border-radius: 6px;
+  background: rgba(223, 230, 255, 1);
+}
+.box__fyjHp {
+  display: block;
+  font-size: 18px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 28px;
+  color: rgba(66, 55, 201, 1);
+  position: absolute;
+  top: 17px;
+  left: 23.96%;
+  width: 52.39%;
+  transform: translate(0.012999999999998124px, 0px);
+}
+.buttonGetStarted {
+  width: 29.94%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle23 {
+  width: 100.03%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  border-radius: 6px;
+}
+.frame20 {
+  width: 100.03%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle24 {
+  width: 100.03%;
+  height: 62px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  border-radius: 6px;
+  background: rgba(78, 69, 228, 1);
+}
+.box__yPora {
+  display: block;
+  font-size: 18px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 28px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 17px;
+  left: 22.52%;
+  width: 54.99%;
+  transform: translate(0.012999999999998124px, 0px);
+}
+.frame21 {
+  transform: translate(0.428px, 0px);
+  width: 94.84%;
+  height: 112px;
+  display: block;
+  position: absolute;
+  top: 203px;
+  left: 0%;
+}
+.rectangle25 {
+  width: 100.11%;
+  height: 112px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___7SJnb {
+  display: block;
+  font-size: 20px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 28px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 25px;
+  left: 0%;
+  width: 95.31%;
+}
+.frame22 {
+  width: 3.83%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 34px;
+  left: 90.91%;
+}
+.rectangle26 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__pvSSo {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(78, 69, 228, 1);
+  position: absolute;
+  top: -2px;
+  left: 0%;
+  width: 100%;
+}
+.frame23 {
+  width: 40%;
+  height: 524px;
+  display: block;
+  position: absolute;
+  top: 138px;
+  left: 60%;
+}
+.rectangle27 {
+  width: 100%;
+  height: 662px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle28 {
+  width: 114.58%;
+  height: 388px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: -14.59%;
+  background: url("./images/rectangle2.png") center center / cover no-repeat padding-box
+    border-box scroll;
+}
