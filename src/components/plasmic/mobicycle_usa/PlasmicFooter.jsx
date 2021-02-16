@@ -16,7 +16,7 @@ import {
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
 import defaultcss from "../plasmic__default_style.module.css"; // plasmic-import: global/defaultcss
-import projectcss from "./plasmic_untitled_project.module.css"; // plasmic-import: vT2hQ48dTqvVqB6oYdpEi1/projectcss
+import projectcss from "./plasmic_mobicycle_usa.module.css"; // plasmic-import: vT2hQ48dTqvVqB6oYdpEi1/projectcss
 import sty from "./PlasmicFooter.module.css"; // plasmic-import: w5OyoOXrVf/css
 
 export const PlasmicFooter__VariantProps = new Array();

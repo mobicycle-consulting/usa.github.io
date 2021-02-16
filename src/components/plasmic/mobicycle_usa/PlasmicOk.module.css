@@ -1,13 +1,13 @@
 .root {
-  display: inline-flex;
-  width: auto;
-  height: auto;
+  display: flex;
+  width: 88px;
+  height: 82px;
   position: relative;
 }
 .img {
   position: relative;
   object-fit: cover;
-  width: 100px;
-  height: 100px;
+  width: 51px;
+  height: 48px;
   flex-shrink: 0;
 }

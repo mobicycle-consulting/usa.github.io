@@ -1,0 +1,4090 @@
+.root {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingComponent {
+  width: 1200px;
+  height: 1433px;
+  display: block;
+  flex-shrink: 0;
+}
+.rectangle {
+  width: 100%;
+  height: 1425px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  background: rgba(255, 255, 255, 1);
+}
+.frame {
+  width: 100%;
+  height: 1425px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.img {
+  position: absolute;
+  object-fit: cover;
+  width: 1208px;
+  height: 1595px;
+  display: block;
+  top: 0px;
+  left: 0%;
+}
+.frame2 {
+  width: 94.66%;
+  height: 1181px;
+  display: block;
+  position: absolute;
+  top: 148px;
+  left: 2.66%;
+}
+.rectangle2 {
+  width: 100%;
+  height: 1233px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame3 {
+  width: 100%;
+  height: 1233px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle3 {
+  width: 100%;
+  height: 1233px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame4 {
+  width: 100%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle4 {
+  width: 100%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame5 {
+  width: 100%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle5 {
+  width: 100%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame6 {
+  width: 25%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle6 {
+  width: 100%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame7 {
+  width: 13.02%;
+  height: 17px;
+  display: block;
+  position: absolute;
+  top: 4px;
+  left: 8.45%;
+}
+.rectangle7 {
+  width: 100%;
+  height: 17px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__jRamQ {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: -1px;
+  left: 0%;
+  width: 100%;
+}
+.frame8 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 2px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle8 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___7OzpV {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 7400%;
+}
+.frame9 {
+  width: 25%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle9 {
+  width: 100%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__lfxiz {
+  display: block;
+  font-size: 18px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 1px;
+  left: 8.45%;
+  width: 26.76%;
+}
+.frame10 {
+  width: 25%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle10 {
+  width: 100%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__iyr2X {
+  display: block;
+  font-size: 18px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 1px;
+  left: 8.45%;
+  width: 15.84%;
+}
+.frame11 {
+  width: 25%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle11 {
+  width: 100%;
+  height: 41px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__dy5Eh {
+  display: block;
+  font-size: 18px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 1px;
+  left: 8.45%;
+  width: 26.4%;
+}
+.rectangle12 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.frame12 {
+  width: 100%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 1173px;
+  left: 0%;
+}
+.rectangle13 {
+  width: 100%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame13 {
+  width: 100%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle14 {
+  width: 100%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame14 {
+  width: 25%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle15 {
+  width: 100%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame15 {
+  width: 83.09%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+}
+.rectangle16 {
+  box-shadow: inset 0px 0px 0px 1px rgba(30, 40, 54, 1);
+  width: 100%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  border-radius: 6px;
+  background: rgba(30, 40, 54, 1);
+}
+.box__iGuA {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 9px;
+  left: 36.01%;
+  width: 28.38%;
+}
+.frame16 {
+  width: 25%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle17 {
+  width: 100%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame17 {
+  width: 83.09%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+}
+.rectangle18 {
+  box-shadow: inset 0px 0px 0px 1px rgba(30, 40, 54, 1);
+  width: 100%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  border-radius: 6px;
+  background: rgba(30, 40, 54, 1);
+}
+.box___7Rj7P {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 9px;
+  left: 30.5%;
+  width: 39.4%;
+}
+.frame18 {
+  width: 25%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle19 {
+  width: 100%;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame19 {
+  width: 83.09%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+}
+.rectangle20 {
+  box-shadow: inset 0px 0px 0px 1px rgba(30, 40, 54, 1);
+  width: 100%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  border-radius: 6px;
+  background: rgba(30, 40, 54, 1);
+}
+.box__acXu8 {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 9px;
+  left: 30.93%;
+  width: 38.13%;
+}
+.frame20 {
+  width: 0.08%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: -0.09%;
+  overflow: hidden;
+}
+.rectangle21 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__rkcNb {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 13900%;
+}
+.rectangle22 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: -1px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.frame21 {
+  width: 100%;
+  height: 1132px;
+  display: block;
+  position: absolute;
+  top: 41px;
+  left: 0%;
+}
+.rectangle23 {
+  width: 100%;
+  height: 1132px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame22 {
+  width: 100%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle24 {
+  width: 100%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame23 {
+  width: 25%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle25 {
+  width: 100%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame24 {
+  width: 83.09%;
+  height: 160px;
+  display: block;
+  position: absolute;
+  top: 33px;
+  left: 8.45%;
+}
+.rectangle26 {
+  width: 100%;
+  height: 160px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame25 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle27 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame26 {
+  width: 21.61%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  left: 25.84%;
+}
+.rectangle28 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___9JYfA {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: -2px;
+  left: 0%;
+  width: 100%;
+}
+.frame27 {
+  width: 20.76%;
+  height: 44px;
+  display: block;
+  position: absolute;
+  top: -2px;
+  left: 0%;
+}
+.rectangle29 {
+  width: 100%;
+  height: 44px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___4KIPx {
+  display: block;
+  font-size: 36px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 155.1%;
+}
+.frame28 {
+  width: 100%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 122px;
+  left: 0%;
+}
+.rectangle30 {
+  box-shadow: inset 0px 0px 0px 1px rgba(30, 40, 54, 1);
+  width: 100%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  border-radius: 6px;
+  background: rgba(30, 40, 54, 1);
+}
+.box__q4S93 {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 9px;
+  left: 36.01%;
+  width: 28.38%;
+}
+.frame29 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 56px;
+  left: 0%;
+}
+.rectangle31 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__kMu6 {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 1px;
+  left: 0%;
+  width: 88.13%;
+}
+.frame30 {
+  width: 25%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle32 {
+  width: 100%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame31 {
+  width: 83.09%;
+  height: 160px;
+  display: block;
+  position: absolute;
+  top: 33px;
+  left: 8.45%;
+}
+.rectangle33 {
+  width: 100%;
+  height: 160px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame32 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle34 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame33 {
+  width: 12.71%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 18px;
+  left: 37.28%;
+}
+.rectangle35 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__tWnP {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: -2px;
+  left: 0%;
+  width: 100%;
+}
+.frame34 {
+  width: 30.93%;
+  height: 44px;
+  display: block;
+  position: absolute;
+  top: -2px;
+  left: 0%;
+}
+.rectangle36 {
+  width: 100%;
+  height: 44px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__bkCFf {
+  display: block;
+  font-size: 36px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 160.27%;
+}
+.frame35 {
+  width: 100%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 122px;
+  left: 0%;
+}
+.rectangle37 {
+  box-shadow: inset 0px 0px 0px 1px rgba(30, 40, 54, 1);
+  width: 100%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  border-radius: 6px;
+  background: rgba(30, 40, 54, 1);
+}
+.box__w9QN1 {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 9px;
+  left: 30.93%;
+  width: 38.13%;
+}
+.frame36 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 56px;
+  left: 0%;
+}
+.rectangle38 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__rab2 {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 1px;
+  left: 0%;
+  width: 100%;
+}
+.frame37 {
+  width: 25%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle39 {
+  width: 100%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__unN7 {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 33px;
+  left: 8.45%;
+  width: 56.69%;
+  height: 39px;
+}
+.frame38 {
+  width: 25%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle40 {
+  width: 100%;
+  height: 225px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame39 {
+  width: 83.09%;
+  height: 160px;
+  display: block;
+  position: absolute;
+  top: 33px;
+  left: 8.45%;
+}
+.rectangle41 {
+  width: 100%;
+  height: 160px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame40 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 56px;
+  left: 0%;
+}
+.rectangle42 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__wElS2 {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 1px;
+  left: 0%;
+  width: 86.86%;
+}
+.frame41 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle43 {
+  width: 100%;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame42 {
+  width: 30.93%;
+  height: 44px;
+  display: block;
+  position: absolute;
+  top: -2px;
+  left: 0%;
+}
+.rectangle44 {
+  width: 100%;
+  height: 44px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__jsRav {
+  display: block;
+  font-size: 36px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 130.13%;
+  height: 80px;
+}
+.frame43 {
+  width: 12.71%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  left: 33.05%;
+}
+.rectangle45 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__xt0OT {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 16px;
+  left: 43.64%;
+  width: 12.71%;
+}
+.frame44 {
+  width: 100%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 122px;
+  left: 0%;
+}
+.rectangle46 {
+  box-shadow: inset 0px 0px 0px 1px rgba(30, 40, 54, 1);
+  width: 100%;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  border-radius: 6px;
+  background: rgba(30, 40, 54, 1);
+}
+.box__aUeya {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 9px;
+  left: 30.5%;
+  width: 39.4%;
+}
+.frame45 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 225px;
+  left: 0%;
+}
+.rectangle47 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame46 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  background: rgba(255, 255, 255, 1);
+}
+.rectangle48 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  background: rgba(248, 249, 250, 1);
+}
+.box__hogxH {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 13px;
+  left: 2.11%;
+  width: 5.36%;
+}
+.rectangle49 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 269px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle50 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 330px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle51 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 391px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle52 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 452px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle53 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 513px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.frame47 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 559px;
+  left: 0%;
+}
+.rectangle54 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame48 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle55 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame49 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle56 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__sE4Q {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 12500%;
+}
+.frame50 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame51 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle57 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame52 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle58 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__q98O5 {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame53 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame54 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle59 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame55 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame56 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle60 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__lwXjC {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15000%;
+}
+.frame57 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle61 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__kt1Vc {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+  width: 41.54%;
+  height: 30px;
+}
+.frame58 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 620px;
+  left: 0%;
+}
+.rectangle62 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame59 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle63 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame60 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle64 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__qteQk {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15600%;
+}
+.frame61 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame62 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle65 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame63 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle66 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__e9LuN {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame64 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame65 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle67 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.mobiBins {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+  width: 42.25%;
+}
+.frame66 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle68 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame67 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame68 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle69 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__ukZp2 {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15000%;
+}
+.frame69 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 681px;
+  left: 0%;
+}
+.rectangle70 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame70 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle71 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame71 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle72 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__zUaHt {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15600%;
+}
+.frame72 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame73 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle73 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame74 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle74 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__hWce {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame75 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame76 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle75 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame77 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame78 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle76 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__e9XmI {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 18100%;
+}
+.frame79 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle77 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__zEpYg {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+  width: 51.4%;
+}
+.frame80 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 742px;
+  left: 0%;
+}
+.rectangle78 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame81 {
+  width: 25%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle79 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame82 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle80 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__mu8FQ {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15600%;
+}
+.frame83 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 31px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame84 {
+  width: 25%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle81 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame85 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle82 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__dSjv8 {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame86 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 31px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame87 {
+  width: 25%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle83 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__npLeL {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 22px;
+  left: 8.45%;
+  width: 75.7%;
+}
+.frame88 {
+  width: 25%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle84 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame89 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 31px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame90 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle85 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___38A7 {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 18100%;
+}
+.frame91 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 823px;
+  left: 0%;
+}
+.rectangle86 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame92 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle87 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  background: rgba(248, 249, 250, 1);
+}
+.box__nHrzL {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 13px;
+  left: 2.11%;
+  width: 4.92%;
+}
+.rectangle88 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 867px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle89 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 928px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle90 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 989px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle91 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 1050px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle92 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 224px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.frame93 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 270px;
+  left: 0%;
+}
+.rectangle93 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame94 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle94 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__z0Rdy {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+  width: 56.33%;
+}
+.frame95 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle95 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame96 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle96 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___2MjmL {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15000%;
+}
+.frame97 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame98 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle97 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame99 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame100 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle98 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___36NaN {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame101 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle99 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame102 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame103 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle100 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__cQyDt {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 12500%;
+}
+.frame104 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 331px;
+  left: 0%;
+}
+.rectangle101 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame105 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle102 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__rIsqb {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+  width: 66.19%;
+  height: 31px;
+}
+.frame106 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle103 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame107 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle104 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__luYdt {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15000%;
+}
+.frame108 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame109 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle105 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame110 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame111 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle106 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__x7BZi {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame112 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle107 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame113 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame114 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle108 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__u3Pik {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 12500%;
+}
+.frame115 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 392px;
+  left: 0%;
+}
+.rectangle109 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame116 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle110 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__kzxSx {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+  width: 58.45%;
+}
+.frame117 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle111 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame118 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle112 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___93YxS {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15000%;
+}
+.frame119 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame120 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle113 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame121 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame122 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle114 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__ugnnx {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame123 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle115 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame124 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame125 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle116 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___28K8C {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15600%;
+}
+.frame126 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 453px;
+  left: 0%;
+}
+.rectangle117 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame127 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle118 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__t6DEl {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.09%;
+  width: 58.45%;
+}
+.frame128 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle119 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame129 {
+  width: 83.09%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+}
+.rectangle120 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___6YTAj {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(54, 64, 80, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 41.52%;
+}
+.frame130 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle121 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame131 {
+  width: 83.09%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+}
+.rectangle122 {
+  width: 100%;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__homb5 {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(54, 64, 80, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 41.94%;
+}
+.frame132 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle123 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame134 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle124 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__dLuf {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15600%;
+}
+.rectangle125 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 558px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle126 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 619px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle127 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 680px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle128 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 741px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.rectangle129 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 822px;
+  left: 0%;
+  background: rgba(22, 90, 225, 1);
+}
+.frame135 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 868px;
+  left: 0%;
+}
+.rectangle130 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame136 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle131 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__rmyI {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+  width: 29.92%;
+}
+.frame137 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle132 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame138 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle133 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__qzgHr {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15000%;
+}
+.frame139 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame140 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle134 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame141 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame142 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle135 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__cebgX {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame143 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle136 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame144 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame145 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle137 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__agqFv {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 12500%;
+}
+.frame146 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 929px;
+  left: 0%;
+}
+.rectangle138 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame147 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle139 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___7MBda {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+  width: 43.66%;
+}
+.frame148 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle140 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame149 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle141 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__pfcuf {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15000%;
+}
+.frame150 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame151 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle142 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame152 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame153 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle143 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__cfzk7 {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame154 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle144 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame155 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame156 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle145 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___2YxhZ {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15600%;
+}
+.frame157 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 990px;
+  left: 0%;
+}
+.rectangle146 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame158 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle147 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___1VwrO {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 21px;
+  left: 8.45%;
+  width: 53.87%;
+}
+.frame159 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle148 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame160 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle149 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__lCoo {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15000%;
+}
+.frame161 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame162 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle150 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame163 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame164 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle151 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___558 {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame165 {
+  width: 25%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle152 {
+  width: 100%;
+  height: 61px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame166 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 21px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame167 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle153 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box___02HR7 {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15600%;
+}
+.frame168 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 1051px;
+  left: 0%;
+}
+.rectangle154 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame169 {
+  width: 25%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle155 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__hNzVe {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: absolute;
+  top: 22px;
+  left: 8.45%;
+  width: 82.04%;
+}
+.frame170 {
+  width: 25%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.rectangle156 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame171 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle157 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__nh95O {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 18100%;
+}
+.frame172 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 31px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame173 {
+  width: 25%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 75%;
+}
+.rectangle158 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame174 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 31px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame175 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle159 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__mnNoN {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 14700%;
+}
+.frame176 {
+  width: 25%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 25%;
+}
+.rectangle160 {
+  width: 100%;
+  height: 81px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame177 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 31px;
+  left: 24px;
+  overflow: hidden;
+}
+.frame178 {
+  width: 0.35%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: 8.09%;
+  overflow: hidden;
+}
+.rectangle161 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__weyW {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 15600%;
+}
+.frame179 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 514px;
+  left: 0%;
+}
+.rectangle162 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.frame180 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.rectangle163 {
+  width: 100%;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  background: rgba(248, 249, 250, 1);
+}
+.box__mqK6Q {
+  display: block;
+  font-size: 14px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 13px;
+  left: 2.11%;
+  width: 5.98%;
+}
+.frame181 {
+  width: 0.08%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: -0.09%;
+  overflow: hidden;
+}
+.rectangle164 {
+  width: 100%;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0%;
+}
+.box__mrVoS {
+  display: block;
+  font-size: 16px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 17400%;
+}
+.box__rGrE0 {
+  display: block;
+  font-size: 36px;
+  text-align: undefined;
+  text-transform: undefined;
+  text-decoration-line: undefined;
+  font-family: "Roboto";
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 65px;
+  left: 566px;
+  width: 116px;
+  height: 39px;
+}

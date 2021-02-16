@@ -15,25 +15,25 @@
     "scheme": "theo",
     "tokensFilePath": "plasmic-tokens.theo.json"
   },
-  "srcDir": "components",
+  "srcDir": "src/components",
   "defaultPlasmicDir": "./plasmic",
   "projects": [
     {
       "projectId": "vT2hQ48dTqvVqB6oYdpEi1",
-      "projectName": "Untitled Project",
+      "projectName": "mobicycle-usa",
       "version": "latest",
-      "cssFilePath": "plasmic/untitled_project/plasmic_untitled_project.module.css",
+      "cssFilePath": "plasmic/mobicycle_usa/plasmic_mobicycle_usa.module.css",
       "components": [
         {
           "id": "toDOefuMNH",
           "name": "Header",
           "type": "managed",
           "projectId": "vT2hQ48dTqvVqB6oYdpEi1",
-          "renderModuleFilePath": "plasmic/untitled_project/PlasmicHeader.jsx",
+          "renderModuleFilePath": "plasmic/mobicycle_usa/PlasmicHeader.jsx",
           "importSpec": {
             "modulePath": "Header.jsx"
           },
-          "cssFilePath": "plasmic/untitled_project/PlasmicHeader.module.css",
+          "cssFilePath": "plasmic/mobicycle_usa/PlasmicHeader.module.css",
           "scheme": "blackbox",
           "componentType": "component"
         },
@@ -42,11 +42,11 @@
           "name": "Body",
           "type": "managed",
           "projectId": "vT2hQ48dTqvVqB6oYdpEi1",
-          "renderModuleFilePath": "plasmic/untitled_project/PlasmicBody.jsx",
+          "renderModuleFilePath": "plasmic/mobicycle_usa/PlasmicBody.jsx",
           "importSpec": {
             "modulePath": "Body.jsx"
           },
-          "cssFilePath": "plasmic/untitled_project/PlasmicBody.module.css",
+          "cssFilePath": "plasmic/mobicycle_usa/PlasmicBody.module.css",
           "scheme": "blackbox",
           "componentType": "component"
         },
@@ -55,11 +55,11 @@
           "name": "Pricing",
           "type": "managed",
           "projectId": "vT2hQ48dTqvVqB6oYdpEi1",
-          "renderModuleFilePath": "plasmic/untitled_project/PlasmicPricing.jsx",
+          "renderModuleFilePath": "plasmic/mobicycle_usa/PlasmicPricing.jsx",
           "importSpec": {
             "modulePath": "Pricing.jsx"
           },
-          "cssFilePath": "plasmic/untitled_project/PlasmicPricing.module.css",
+          "cssFilePath": "plasmic/mobicycle_usa/PlasmicPricing.module.css",
           "scheme": "blackbox",
           "componentType": "component"
         },
@@ -68,11 +68,11 @@
           "name": "Footer",
           "type": "managed",
           "projectId": "vT2hQ48dTqvVqB6oYdpEi1",
-          "renderModuleFilePath": "plasmic/untitled_project/PlasmicFooter.jsx",
+          "renderModuleFilePath": "plasmic/mobicycle_usa/PlasmicFooter.jsx",
           "importSpec": {
             "modulePath": "Footer.jsx"
           },
-          "cssFilePath": "plasmic/untitled_project/PlasmicFooter.module.css",
+          "cssFilePath": "plasmic/mobicycle_usa/PlasmicFooter.module.css",
           "scheme": "blackbox",
           "componentType": "component"
         },
@@ -81,11 +81,11 @@
           "name": "Ok",
           "type": "managed",
           "projectId": "vT2hQ48dTqvVqB6oYdpEi1",
-          "renderModuleFilePath": "plasmic/untitled_project/PlasmicOk.jsx",
+          "renderModuleFilePath": "plasmic/mobicycle_usa/PlasmicOk.jsx",
           "importSpec": {
             "modulePath": "Ok.jsx"
           },
-          "cssFilePath": "plasmic/untitled_project/PlasmicOk.module.css",
+          "cssFilePath": "plasmic/mobicycle_usa/PlasmicOk.module.css",
           "scheme": "blackbox",
           "componentType": "component"
         }
@@ -95,52 +95,57 @@
         {
           "id": "093lvnfA3",
           "name": "Rectangle 2",
-          "filePath": "plasmic/untitled_project/images/rectangle2.png"
+          "filePath": "plasmic/mobicycle_usa/images/rectangle2.png"
         },
         {
           "id": "6R1ny6gnnT",
           "name": "Rectangle 3",
-          "filePath": "plasmic/untitled_project/images/rectangle3.null"
+          "filePath": "plasmic/mobicycle_usa/images/rectangle3.null"
         },
         {
           "id": "UZF0Izi3Nr",
           "name": "Rectangle 4",
-          "filePath": "plasmic/untitled_project/images/rectangle4.png"
+          "filePath": "plasmic/mobicycle_usa/images/rectangle4.png"
         },
         {
           "id": "W5sjZGeoew",
           "name": "Rectangle",
-          "filePath": "plasmic/untitled_project/images/rectangle.png"
+          "filePath": "plasmic/mobicycle_usa/images/rectangle.png"
         },
         {
           "id": "qCDizuClL9N",
           "name": "Rectangle 5",
-          "filePath": "plasmic/untitled_project/images/rectangle5.svg"
+          "filePath": "plasmic/mobicycle_usa/images/rectangle5.svg"
         },
         {
           "id": "Zmn-s2eCu0e",
           "name": "Rectangle 6",
-          "filePath": "plasmic/untitled_project/images/rectangle6.svg"
+          "filePath": "plasmic/mobicycle_usa/images/rectangle6.svg"
         },
         {
           "id": "UDyktSe7sB",
           "name": "Rectangle 7",
-          "filePath": "plasmic/untitled_project/images/rectangle7.svg"
+          "filePath": "plasmic/mobicycle_usa/images/rectangle7.svg"
         },
         {
           "id": "bxgyA-tUzU",
           "name": "Rectangle 8",
-          "filePath": "plasmic/untitled_project/images/rectangle8.svg"
+          "filePath": "plasmic/mobicycle_usa/images/rectangle8.svg"
         },
         {
           "id": "MORp7I01fA",
           "name": "Rectangle 9",
-          "filePath": "plasmic/untitled_project/images/rectangle9.svg"
+          "filePath": "plasmic/mobicycle_usa/images/rectangle9.svg"
         },
         {
           "id": "vymGGhV8E",
           "name": "image",
-          "filePath": "plasmic/untitled_project/images/image.png"
+          "filePath": "plasmic/mobicycle_usa/images/image.png"
+        },
+        {
+          "id": "gBhU7zisMf",
+          "name": "Rectangle 10",
+          "filePath": "plasmic/mobicycle_usa/images/rectangle10.svg"
         }
       ],
       "jsBundleThemes": []
