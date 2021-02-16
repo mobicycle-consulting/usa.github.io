@@ -697,9 +697,7 @@ function PlasmicBody__RenderFunc(props) {
                               sty.box__nJhAq
                             )}
                           >
-                            {
-                              "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
-                            }
+                            {"Call us today to discuss your needs."}
                           </div>
                         </div>
 
@@ -724,7 +722,7 @@ function PlasmicBody__RenderFunc(props) {
                               sty.box___9HafF
                             )}
                           >
-                            {"Mobile notifications"}
+                            {"Wherever you happen to be"}
                           </div>
                         </div>
                       </div>
@@ -825,7 +823,7 @@ function PlasmicBody__RenderFunc(props) {
                             )}
                           >
                             {
-                              "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+                              "We can help you with independent, unbiased advice and best practices that leverage cutting edge technologies."
                             }
                           </div>
                         </div>
@@ -851,7 +849,7 @@ function PlasmicBody__RenderFunc(props) {
                               sty.box__i3Vqq
                             )}
                           >
-                            {"Reminder emails"}
+                            {"Find a partner for the long term"}
                           </div>
                         </div>
                       </div>
@@ -914,7 +912,7 @@ function PlasmicBody__RenderFunc(props) {
                     )}
                   >
                     {
-                      "Clear answers to what we should do when a product’s software doesn’t outlive its hardware, or when its electronics don’t outlast th"
+                      "Clear answers to what we should do when a product’s software doesn’t outlive its hardware, or when its electronics don’t outlast their usefulness. "
                     }
                   </div>
                 </div>

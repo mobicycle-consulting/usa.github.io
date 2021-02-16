@@ -1,16 +1,10 @@
 import React from 'react';
+import Home2 from './components/Home2';
 import Header from './components/Header';
-import Body from "./components/Body";
-import Pricing from "./components/Pricing";
-import Footer from "./components/Footer";
 
 function App() {
   return (
-    <>
-      <Header/>
-      <Body/>
-      <Pricing/>
-      <Footer/>
+    <> <Header />
     </>
   )
 }

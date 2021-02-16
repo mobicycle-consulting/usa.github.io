@@ -88,6 +88,32 @@
           "cssFilePath": "plasmic/mobicycle_usa/PlasmicOk.module.css",
           "scheme": "blackbox",
           "componentType": "component"
+        },
+        {
+          "id": "yewzmj7F5p",
+          "name": "Home",
+          "type": "managed",
+          "projectId": "vT2hQ48dTqvVqB6oYdpEi1",
+          "renderModuleFilePath": "plasmic/mobicycle_usa/PlasmicHome.jsx",
+          "importSpec": {
+            "modulePath": "Home.jsx"
+          },
+          "cssFilePath": "plasmic/mobicycle_usa/PlasmicHome.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "R1roHljYXf",
+          "name": "Home2",
+          "type": "managed",
+          "projectId": "vT2hQ48dTqvVqB6oYdpEi1",
+          "renderModuleFilePath": "plasmic/mobicycle_usa/PlasmicHome2.jsx",
+          "importSpec": {
+            "modulePath": "Home2.jsx"
+          },
+          "cssFilePath": "plasmic/mobicycle_usa/PlasmicHome2.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
         }
       ],
       "icons": [],
@@ -146,6 +172,21 @@
           "id": "gBhU7zisMf",
           "name": "Rectangle 10",
           "filePath": "plasmic/mobicycle_usa/images/rectangle10.svg"
+        },
+        {
+          "id": "_qu55Si5k",
+          "name": "iStock-108175482.jpg",
+          "filePath": "plasmic/mobicycle_usa/images/iStock108175482Jpg.jpeg"
+        },
+        {
+          "id": "unNANGNGnv_",
+          "name": "Rectangle 11",
+          "filePath": "plasmic/mobicycle_usa/images/rectangle11.svg"
+        },
+        {
+          "id": "fKjOBz5I-5wq",
+          "name": "Rectangle 12",
+          "filePath": "plasmic/mobicycle_usa/images/rectangle12.svg"
         }
       ],
       "jsBundleThemes": []

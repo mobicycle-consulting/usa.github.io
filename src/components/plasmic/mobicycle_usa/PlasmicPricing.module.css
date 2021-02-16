@@ -32,11 +32,12 @@
 .img {
   position: absolute;
   object-fit: cover;
-  width: 1208px;
-  height: 1595px;
+  width: auto;
+  height: auto;
   display: block;
   top: 0px;
   left: 0%;
+  border: 1px solid rgba(0, 0, 0, 0.01);
 }
 .frame2 {
   width: 94.66%;
