@@ -6,10 +6,12 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+    "defaultStyleCssFilePath": ""
   },
   "images": {
-    "scheme": "files"
+    "scheme": "public-files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
   },
   "tokens": {
     "scheme": "theo",
@@ -17,66 +19,10 @@
   },
   "srcDir": "src/components",
   "defaultPlasmicDir": "./plasmic",
-  "projects": [
-    {
-      "projectId": "jXYNeiNniyXDMDn4wcJnEh",
-      "projectName": "m-usa",
-      "version": "latest",
-      "cssFilePath": "plasmic/m_usa/plasmic_m_usa.module.css",
-      "components": [
-        {
-          "id": "bYdbxdk6GKg2",
-          "name": "Homepage",
-          "type": "managed",
-          "projectId": "jXYNeiNniyXDMDn4wcJnEh",
-          "renderModuleFilePath": "plasmic/m_usa/PlasmicHomepage.jsx",
-          "importSpec": {
-            "modulePath": "Homepage.jsx"
-          },
-          "cssFilePath": "plasmic/m_usa/PlasmicHomepage.module.css",
-          "scheme": "blackbox",
-          "componentType": "component"
-        }
-      ],
-      "icons": [],
-      "images": [
-        {
-          "id": "-cX-dir0a",
-          "name": "Rectangle 2",
-          "filePath": "plasmic/m_usa/images/rectangle2.png"
-        },
-        {
-          "id": "tZeS5AFnmf",
-          "name": "Rectangle 3",
-          "filePath": "plasmic/m_usa/images/rectangle3.null"
-        },
-        {
-          "id": "I-V3IjpyRC",
-          "name": "Rectangle 4",
-          "filePath": "plasmic/m_usa/images/rectangle4.null"
-        },
-        {
-          "id": "gval5aegc2",
-          "name": "Rectangle",
-          "filePath": "plasmic/m_usa/images/rectangle.png"
-        },
-        {
-          "id": "4FZNMo3s5JB",
-          "name": "Rectangle 5",
-          "filePath": "plasmic/m_usa/images/rectangle5.svg"
-        },
-        {
-          "id": "bqrBhRwOxeFm",
-          "name": "Rectangle 6",
-          "filePath": "plasmic/m_usa/images/rectangle6.svg"
-        }
-      ],
-      "jsBundleThemes": []
-    }
-  ],
+  "projects": [],
   "globalVariants": {
     "variantGroups": []
   },
-  "cliVersion": "0.1.105",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.105/dist/plasmic.schema.json"
+  "cliVersion": "0.1.107",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.107/dist/plasmic.schema.json"
 }
