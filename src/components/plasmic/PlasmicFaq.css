@@ -1,0 +1,32 @@
+ .Faq__root__bQdD3.__wab_instance {
+        position: relative;
+      } 
+ .Faq__box__wHcKq {
+        display: flex;
+position: relative;
+flex-direction: column;
+      } 
+ .Faq__box__wHcKq > .__wab_flex-container {
+        flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+margin-top: calc(0px - 8px);
+height: calc(100% + 8px);
+      } 
+ .Faq__box__wHcKq > .__wab_flex-container > *, .Faq__box__wHcKq > .__wab_flex-container > .__wab_slot > * {
+        margin-top: 8px;
+      } 
+ .Faq__box__cgzsy {
+        display: flex;
+flex-direction: row;
+      } 
+ .Faq__box__nT1QC {
+        display: flex;
+position: relative;
+      } 
+ .Faq__slotChildren___7ZYqb {
+        text-align: left;
+      } 
+ .Faq__slotSlot__d3Z8Y {
+        text-align: left;
+      } 

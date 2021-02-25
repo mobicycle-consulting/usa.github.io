@@ -1,0 +1,22 @@
+ .Bullet__root___2LRyc {
+        display: flex;
+flex-direction: row;
+position: relative;
+      } 
+ .Bullet__root___2LRyc > .__wab_flex-container {
+        flex-direction: row;
+align-items: center;
+justify-content: flex-start;
+margin-left: calc(0px - 8px);
+width: calc(100% + 8px);
+      } 
+ .Bullet__root___2LRyc > .__wab_flex-container > *, .Bullet__root___2LRyc > .__wab_flex-container > .__wab_slot > * {
+        margin-left: 8px;
+      } 
+ .Bullet__svg__tfHAl {
+        object-fit: cover;
+width: 19px;
+height: 19px;
+color: rgb(50,171,79) /* plasmic-token: PUfHqE8XdOd */;
+flex-shrink: 0;
+      } 
