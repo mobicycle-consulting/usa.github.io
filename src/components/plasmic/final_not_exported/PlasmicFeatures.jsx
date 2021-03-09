@@ -16,9 +16,9 @@ import {
   deriveRenderOpts
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
-import defaultcss from "../plasmic__default_style.module.css"; // plasmic-import: global/defaultcss
-import projectcss from "./plasmic_final_not_exported.module.css"; // plasmic-import: cB98qoa8i3odyeQmSRqxXv/projectcss
-import sty from "./PlasmicFeatures.module.css"; // plasmic-import: vajCZel_JAG/css
+import * as defaultcss from "../plasmic__default_style.module.css"; // plasmic-import: global/defaultcss
+import * as projectcss from "./plasmic_final_not_exported.module.css"; // plasmic-import: cB98qoa8i3odyeQmSRqxXv/projectcss
+import * as sty from "./PlasmicFeatures.module.css"; // plasmic-import: vajCZel_JAG/css
 import GlobeAltIcon from "./icons/PlasmicIcon__GlobeAlt"; // plasmic-import: cotA1AFhJEB/icon
 import ScaleIcon from "./icons/PlasmicIcon__Scale"; // plasmic-import: levw2wPNh7_/icon
 import LightningBoltIcon from "./icons/PlasmicIcon__LightningBolt"; // plasmic-import: esLao0IVyYj/icon

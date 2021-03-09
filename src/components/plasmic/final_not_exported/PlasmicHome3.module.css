@@ -17,6 +17,12 @@
   min-width: 0;
   flex-shrink: 0;
 }
+@media (min-width: 0px) and (max-width: 768px) {
+  .header:global(.__wab_instance) {
+    width: 100%;
+    min-width: 0;
+  }
+}
 .features:global(.__wab_instance) {
   position: relative;
   left: auto;
@@ -26,6 +32,11 @@
   right: auto;
   min-width: 0;
   flex-shrink: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .features:global(.__wab_instance) {
+    flex-shrink: 0;
+  }
 }
 .pricingTableHeader:global(.__wab_instance) {
   position: relative;

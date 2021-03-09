@@ -16,10 +16,10 @@ import {
   deriveRenderOpts
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
-import defaultcss from "../plasmic__default_style.module.css"; // plasmic-import: global/defaultcss
-import projectcss from "./plasmic_final_not_exported.module.css"; // plasmic-import: cB98qoa8i3odyeQmSRqxXv/projectcss
-import sty from "./PlasmicHeader.module.css"; // plasmic-import: VzjRiKj8lhN/css
-import Logo2Icon from "./icons/PlasmicIcon__Logo2"; // plasmic-import: t7YBO6HnjF/icon
+import * as defaultcss from "../plasmic__default_style.module.css"; // plasmic-import: global/defaultcss
+import * as projectcss from "./plasmic_final_not_exported.module.css"; // plasmic-import: cB98qoa8i3odyeQmSRqxXv/projectcss
+import * as sty from "./PlasmicHeader.module.css"; // plasmic-import: VzjRiKj8lhN/css
+import _1526403428SvgIcon from "../mobicycle_usa/icons/PlasmicIcon___1526403428Svg"; // plasmic-import: xiqG2uIym/icon
 import ChevronRightIcon from "./icons/PlasmicIcon__ChevronRight"; // plasmic-import: 57wGom1p3ud/icon
 
 export const PlasmicHeader__VariantProps = new Array();
@@ -77,7 +77,7 @@ function PlasmicHeader__RenderFunc(props) {
                   hasGap={true}
                   className={classNames(defaultcss.all, sty.leadingContent)}
                 >
-                  <Logo2Icon
+                  <_1526403428SvgIcon
                     className={classNames(defaultcss.all, sty.svg__o1YGj)}
                     role={"img"}
                   />

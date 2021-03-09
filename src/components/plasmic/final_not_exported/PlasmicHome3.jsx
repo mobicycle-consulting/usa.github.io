@@ -20,9 +20,9 @@ import PricingTableHeader from "../../PricingTableHeader"; // plasmic-import: LS
 import PricingTableProducts from "../../PricingTableProducts"; // plasmic-import: j_QrHh39o2Vz/component
 import Footer from "../../Footer"; // plasmic-import: ZTC6UxPS4pr/component
 import "@plasmicapp/react-web/lib/plasmic.css";
-import defaultcss from "../plasmic__default_style.module.css"; // plasmic-import: global/defaultcss
-import projectcss from "./plasmic_final_not_exported.module.css"; // plasmic-import: cB98qoa8i3odyeQmSRqxXv/projectcss
-import sty from "./PlasmicHome3.module.css"; // plasmic-import: TZVlN0wNrC/css
+import * as defaultcss from "../plasmic__default_style.module.css"; // plasmic-import: global/defaultcss
+import * as projectcss from "./plasmic_final_not_exported.module.css"; // plasmic-import: cB98qoa8i3odyeQmSRqxXv/projectcss
+import * as sty from "./PlasmicHome3.module.css"; // plasmic-import: TZVlN0wNrC/css
 
 export const PlasmicHome3__VariantProps = new Array();
 

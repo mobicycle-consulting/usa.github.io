@@ -105,6 +105,8 @@
   height: 40px;
   color: #6366f1;
   display: block;
+  margin-right: -15px;
+  margin-left: calc(6px + 40px) !important;
   flex-shrink: 0;
 }
 .links {

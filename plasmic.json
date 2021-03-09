@@ -30,7 +30,7 @@
     },
     {
       "projectId": "cB98qoa8i3odyeQmSRqxXv",
-      "projectName": "final_not exported",
+      "projectName": "mobicycle usa",
       "version": "latest",
       "cssFilePath": "plasmic/final_not_exported/plasmic_final_not_exported.module.css",
       "components": [
@@ -294,6 +294,11 @@
           "id": "sHRqwbiY1",
           "name": "SquareDotssvgIcon",
           "moduleFilePath": "plasmic/final_not_exported/icons/PlasmicIcon__SquareDotssvg.jsx"
+        },
+        {
+          "id": "xiqG2uIym",
+          "name": "_1526403428SvgIcon",
+          "moduleFilePath": "plasmic/mobicycle_usa/icons/PlasmicIcon___1526403428Svg.jsx"
         }
       ],
       "images": [
@@ -361,6 +366,6 @@
       }
     ]
   },
-  "cliVersion": "0.1.114",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.114/dist/plasmic.schema.json"
+  "cliVersion": "0.1.116",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.116/dist/plasmic.schema.json"
 }

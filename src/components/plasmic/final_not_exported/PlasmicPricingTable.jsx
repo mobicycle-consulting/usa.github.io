@@ -15,9 +15,9 @@ import {
   deriveRenderOpts
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
-import defaultcss from "../plasmic__default_style.module.css"; // plasmic-import: global/defaultcss
-import projectcss from "./plasmic_final_not_exported.module.css"; // plasmic-import: cB98qoa8i3odyeQmSRqxXv/projectcss
-import sty from "./PlasmicPricingTable.module.css"; // plasmic-import: uyExJbZ7mqv6/css
+import * as defaultcss from "../plasmic__default_style.module.css"; // plasmic-import: global/defaultcss
+import * as projectcss from "./plasmic_final_not_exported.module.css"; // plasmic-import: cB98qoa8i3odyeQmSRqxXv/projectcss
+import * as sty from "./PlasmicPricingTable.module.css"; // plasmic-import: uyExJbZ7mqv6/css
 
 export const PlasmicPricingTable__VariantProps = new Array();
 
