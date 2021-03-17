@@ -1,9 +1,9 @@
 {
-  "name": "mc-ussa",
+  "name": "del",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@plasmicapp/cli": "^0.1.114",
+    "@plasmicapp/cli": "^0.1.119",
     "@plasmicapp/react-web": "^0.2.22",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

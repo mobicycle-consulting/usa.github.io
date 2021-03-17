@@ -1,0 +1,3442 @@
+.root {
+  width: 393px;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 0px;
+  height: 4968px;
+}
+.withComparisonTableMobile {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 0;
+}
+.container {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  width: 100%;
+  min-width: 0;
+}
+.container > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: calc(0px - 64px);
+  height: calc(100% + 64px);
+}
+.container > :global(.__wab_flex-container) > *,
+.container > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 64px;
+}
+.section {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+}
+.section > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.section > :global(.__wab_flex-container) > *,
+.section > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 32px;
+}
+.tableHead {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.tableHead > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 24px);
+  height: calc(100% + 24px);
+}
+.tableHead > :global(.__wab_flex-container) > *,
+.tableHead > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 24px;
+}
+.header {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+}
+.header > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.header > :global(.__wab_flex-container) > *,
+.header > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 16px;
+}
+.heading {
+  display: block;
+  font-size: 18px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  align-self: stretch;
+  position: relative;
+}
+.pricing {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+}
+.pricing > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-left: calc(0px - 4px);
+  width: calc(100% + 4px);
+}
+.pricing > :global(.__wab_flex-container) > *,
+.pricing > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 4px;
+}
+.price {
+  display: block;
+  font-size: 36px;
+  font-family: "Inter";
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.frequency {
+  display: block;
+  font-size: 16px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.supportingText {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  align-self: stretch;
+  position: relative;
+}
+.pricingPagesButtonLink {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 17px;
+  background: rgba(30, 40, 54, 1);
+}
+.text {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.tablesAndCta {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tables {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.table {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text2 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingRowMobile:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder3 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text5 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text6 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon2 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__kwt90 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: rgb(18, 105, 76);
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder4 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text7 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text8 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+  height: auto;
+}
+.icon3 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__fAyHm {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder5 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content5 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text9 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text10 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon4 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__btQf6 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.table2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder6 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content6 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text11 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+  height: auto;
+}
+.pricingPagesCell5 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder7 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content7 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text12 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text13 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon5 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__r5JOi {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: rgb(18, 105, 76);
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell6 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder8 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content8 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text14 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text15 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon6 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__kjpmR {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell7 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder9 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content9 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text16 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text17 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon7 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__zHgl5 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell8 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder10 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content10 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text18 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text19 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon8 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__zdaWi {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.table3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder11 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content11 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text20 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell9 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder12 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content12 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text21 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text22 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon9 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__gVAu5 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 1em;
+  color: rgb(18, 105, 76);
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell10 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder13 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content13 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text23 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text24 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon10 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__dnntK {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell11 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder14 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content14 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text25 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text26 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon11 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__ekAy9 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell12 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder15 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content15 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text27 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text28 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon12 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg___6VApE {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.cta {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content16 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 20px;
+}
+.pricingPagesButtonLink2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 17px;
+  background: rgba(30, 40, 54, 1);
+}
+.text29 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.section2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+}
+.section2 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.section2 > :global(.__wab_flex-container) > *,
+.section2 > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 32px;
+}
+.tableHead2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.tableHead2 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 24px);
+  height: calc(100% + 24px);
+}
+.tableHead2 > :global(.__wab_flex-container) > *,
+.tableHead2 > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 24px;
+}
+.header2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+}
+.header2 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.header2 > :global(.__wab_flex-container) > *,
+.header2 > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 16px;
+}
+.heading2 {
+  display: block;
+  font-size: 18px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  align-self: stretch;
+  position: relative;
+}
+.pricing2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+}
+.pricing2 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-left: calc(0px - 4px);
+  width: calc(100% + 4px);
+}
+.pricing2 > :global(.__wab_flex-container) > *,
+.pricing2 > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 4px;
+}
+.price2 {
+  display: block;
+  font-size: 36px;
+  font-family: "Inter";
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.frequency2 {
+  display: block;
+  font-size: 16px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.supportingText2 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  align-self: stretch;
+  position: relative;
+}
+.pricingPagesButtonLink3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 17px;
+  background: rgba(30, 40, 54, 1);
+}
+.text30 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.tablesAndCta2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tables2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.table4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder16 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content17 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text31 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell13 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder17 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content18 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text32 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text33 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+  height: auto;
+}
+.icon13 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.check___08Lta:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.pricingPagesCell14 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder18 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content19 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text34 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text35 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon14 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.check__yeIy3:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.pricingPagesCell15 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder19 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content20 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text36 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text37 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon15 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.check__fx5Pw:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.pricingPagesCell16 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder20 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content21 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text38 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text39 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.text40 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.text41 {
+  display: block;
+  font-size: 14px;
+  text-align: right;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(54, 64, 80, 1);
+  position: relative;
+}
+.table5 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader5 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder21 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content22 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text42 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell17 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder22 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content23 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text43 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text44 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon16 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__uYnVc {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: rgb(18, 105, 76);
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell18 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder23 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content24 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text45 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text46 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon17 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__jXnq8 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell19 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder24 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content25 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text47 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text48 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon18 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__wRsbc {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell20 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder25 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content26 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text49 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text50 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon19 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__ilgtm {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.table6 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader6 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder26 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content27 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text51 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell21 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder27 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content28 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text52 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text53 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon20 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__sqSuE {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell22 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder28 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content29 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text54 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text55 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon21 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__s5ST0 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell23 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder29 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content30 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text56 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text57 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon22 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__hUV4 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell24 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder30 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content31 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text58 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text59 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon23 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__nXTsq {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.cta2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider2 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content32 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 20px;
+}
+.pricingPagesButtonLink4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 17px;
+  background: rgba(30, 40, 54, 1);
+}
+.text60 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.section3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+}
+.section3 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.section3 > :global(.__wab_flex-container) > *,
+.section3 > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 32px;
+}
+.tableHead3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.tableHead3 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 24px);
+  height: calc(100% + 24px);
+}
+.tableHead3 > :global(.__wab_flex-container) > *,
+.tableHead3 > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 24px;
+}
+.header3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+}
+.header3 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.header3 > :global(.__wab_flex-container) > *,
+.header3 > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 16px;
+}
+.heading3 {
+  display: block;
+  font-size: 18px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(16, 23, 38, 1);
+  align-self: stretch;
+  position: relative;
+}
+.pricing3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+}
+.pricing3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-left: calc(0px - 4px);
+  width: calc(100% + 4px);
+}
+.pricing3 > :global(.__wab_flex-container) > *,
+.pricing3 > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 4px;
+}
+.price3 {
+  display: block;
+  font-size: 36px;
+  font-family: "Inter";
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.frequency3 {
+  display: block;
+  font-size: 16px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.supportingText3 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  align-self: stretch;
+  position: relative;
+}
+.pricingPagesButtonLink5 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 17px;
+  background: rgba(30, 40, 54, 1);
+}
+.text61 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.tablesAndCta3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tables3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.table7 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader7 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder31 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content33 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text62 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell25 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder32 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content34 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text63 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text64 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon24 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__u97Br {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell26 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder33 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content35 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text65 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text66 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon25 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg___3IaDw {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell27 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder34 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content36 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text67 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text68 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon26 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__tbpgW {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell28 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder35 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content37 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text69 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text70 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+  height: auto;
+}
+.text71 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.text72 {
+  display: block;
+  font-size: 14px;
+  text-align: right;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(54, 64, 80, 1);
+  position: relative;
+}
+.table8 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader8 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder36 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content38 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text73 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell29 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder37 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content39 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text74 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text75 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon27 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__ai1C6 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell30 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder38 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content40 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text76 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text77 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon28 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg___4LVd {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell31 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder39 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content41 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text78 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text79 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon29 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__hjCoc {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell32 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder40 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content42 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text80 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text81 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon30 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__onPnv {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.table9 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader9 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder41 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content43 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text82 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell33 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder42 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content44 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text83 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text84 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon31 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__p7R9B {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell34 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder43 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content45 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text85 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text86 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon32 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__xHmgb {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell35 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder44 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content46 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text87 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text88 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon33 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg___8G6G {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell36 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder45 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content47 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text89 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 16px;
+}
+.text90 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(106, 113, 127, 1);
+  position: relative;
+}
+.icon34 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.svg__i6ILa {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.cta3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider3 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content48 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 20px;
+}
+.pricingPagesButtonLink6 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 17px;
+  background: rgba(30, 40, 54, 1);
+}
+.text91 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}

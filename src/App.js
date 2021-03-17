@@ -1,6 +1,7 @@
+
 import React from 'react';
-import Home3 from './components/Home3';
+import Home from './components/Home';
 
 export default function App() {
-  return <Home3 />;
+  return <Home />;
 }

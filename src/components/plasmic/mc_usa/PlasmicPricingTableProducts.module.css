@@ -1,0 +1,2525 @@
+.root {
+  width: 1436px;
+  height: 1136px;
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  padding-top: 76px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 10px;
+}
+@media (max-width: 1368px) {
+  .root {
+    padding-left: 0px;
+  }
+}
+.column1 {
+  width: 298px;
+  height: 992px;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.software {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader9 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder41 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content46 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text24 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell33 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder42 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content47 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text25 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.pricingPagesCell34 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder43 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content48 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text26 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.pricingPagesCell35 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder44 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content49 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text27 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.pricingPagesCell36 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder45 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content50 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text28 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  position: relative;
+  color: rgb(255, 255, 255) /* plasmic-token: Iwpmd4_SaTZmj */;
+  height: auto;
+}
+.hardware {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  margin-left: 0px;
+  flex-direction: row;
+  min-width: 0;
+}
+.hardware > :global(.__wab_flex-container) {
+  flex-direction: row;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.hardware > :global(.__wab_flex-container) > *,
+.hardware > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 10px;
+}
+.description7 {
+  width: 304px;
+  height: auto;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.section5 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader5 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder21 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content29 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text19 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell17 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder22 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content30 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text20 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.pricingPagesCell18 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder23 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content31 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text21 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.pricingPagesCell19 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder24 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content32 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text22 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.pricingPagesCell20 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder25 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content33 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text23 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.basic2 {
+  width: 304px;
+  height: auto;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.support {
+  width: 1177px;
+  height: 382px;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: row;
+  align-self: baseline;
+  flex-shrink: 0;
+}
+.support > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.support > :global(.__wab_flex-container) > *,
+.support > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 10px;
+}
+.description6 {
+  width: 304px;
+  height: auto;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.section {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content8 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+.text11 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(16, 23, 38, 1);
+  position: relative;
+}
+.pricingPagesCell {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder2 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content9 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text12 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.pricingPagesCell2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder3 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content10 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text13 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.pricingPagesCell3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder4 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content11 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text14 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.pricingPagesCell4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder5 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content12 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text15 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.cta {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.basic {
+  width: auto;
+  height: 970px;
+  display: inline-flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+@media (max-width: 1368px) {
+  .basic {
+    padding-left: 0px;
+  }
+}
+.software2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader11 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder51 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell41 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder52 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content55 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__xjGIg {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell42 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder53 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content56 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__kolcm {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell43 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder54 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content57 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__a1XU4 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell44 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder55 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content58 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text29 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.hardware4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader8 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder36 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell29 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder37 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content42 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg___2UefI {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell30 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder38 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content43 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__rjEm {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell31 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder39 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content44 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__c57Si {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell32 {
+  height: 81px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.topBorder40 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content45 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__qIank {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.support4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.section3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader3 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 141px;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder11 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell9 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder12 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content19 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__lbt93 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell10 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder13 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content20 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__sK7Bu {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell11 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder14 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content21 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__ucwP {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell12 {
+  height: 81px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.topBorder15 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content22 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__uEvW {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.cta3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider3 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content23 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 20px;
+}
+.pricingPagesButtonLink2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 10px;
+  background: rgba(30, 40, 54, 1);
+}
+.text17 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  height: auto;
+}
+.essential22 {
+  width: auto;
+  height: 970px;
+  display: inline-flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.software23 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader113 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder513 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell413 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder523 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content553 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg___0JeVd {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell423 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder533 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content563 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__a0WpK {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell433 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder543 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content573 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__jBmXt {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell443 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder553 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content583 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text293 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.hardware43 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader83 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder363 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell293 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder373 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content423 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__hhmxS {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell303 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder383 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content433 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__pDiYm {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell313 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder393 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content443 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__jBytl {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell323 {
+  height: 81px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.topBorder403 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content453 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__j1UTx {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.support43 {
+  height: auto;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.section33 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader33 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  min-width: 0;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder113 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell93 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder123 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content193 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__p1Hxb {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell103 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder133 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content203 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__tdl6 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell113 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder143 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content213 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__rtES {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell123 {
+  height: 81px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.topBorder153 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content223 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__qehfV {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.cta33 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider33 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content233 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 20px;
+}
+.pricingPagesButtonLink23 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 10px;
+  background: rgba(30, 40, 54, 1);
+}
+.text173 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  height: auto;
+}
+.premium {
+  width: auto;
+  height: 970px;
+  display: inline-flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.software22 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader112 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder512 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell412 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder522 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content552 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__iqH5 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell422 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder532 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content562 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__zTmSd {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell432 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder542 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content572 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__foTqp {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell442 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder552 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content582 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.text292 {
+  display: block;
+  flex-grow: 1;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.hardware42 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader82 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder362 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell292 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder372 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content422 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__fowah {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell302 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder382 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content432 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__dZFmj {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell312 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder392 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content442 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__ndEP {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell322 {
+  height: 81px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.topBorder402 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content452 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__nziJb {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.support42 {
+  height: auto;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.section32 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader32 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  min-width: 0;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder112 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell92 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder122 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content192 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg___2O7ZZ {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell102 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder132 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content202 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg___46Rvu {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell112 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder142 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content212 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg___0Lkj1 {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #10b981;
+  display: block;
+  flex-shrink: 0;
+}
+.pricingPagesCell122 {
+  height: 81px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.topBorder152 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content222 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px 24px;
+}
+.svg__quJrm {
+  position: relative;
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+  color: #9ca3af;
+  display: block;
+  flex-shrink: 0;
+}
+.cta32 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider32 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content232 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 20px;
+}
+.pricingPagesButtonLink22 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 10px;
+  background: rgba(30, 40, 54, 1);
+}
+.text172 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  height: auto;
+}

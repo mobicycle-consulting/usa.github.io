@@ -1,0 +1,410 @@
+.root {
+  width: auto;
+  height: 970px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.software2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader11 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder51 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell41 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder52 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__bfv81:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell42 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder53 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__deBrz:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell43 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder54 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__fq9Io:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell44 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder55 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__hKTkD:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.hardware4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader8 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder36 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell29 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder37 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__cxXwO:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell30 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder38 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__ufheH:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell31 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder39 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet___7408Y:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell32 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder40 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__j7Y6H:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.support4 {
+  height: auto;
+  display: flex;
+  position: relative;
+  top: auto;
+  left: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.section3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pricingPagesRowHeader3 {
+  height: 45px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 141px;
+  flex-shrink: 0;
+  background: rgba(248, 249, 250, 1);
+}
+.topBorder11 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.pricingPagesCell9 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder12 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__wv7F0:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell10 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder13 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__qjda4:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell11 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topBorder14 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__zJvPu:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.pricingPagesCell12 {
+  height: 81px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.topBorder15 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.checkTablet__lTGza:global(.__wab_instance) {
+  position: relative;
+  align-self: stretch;
+}
+.cta3 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divider3 {
+  height: 1px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+  background: rgba(228, 230, 234, 1);
+}
+.content23 {
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 20px;
+}
+.pricingPagesButtonLink2 {
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 9px 10px;
+  background: rgba(30, 40, 54, 1);
+}
+.text17 {
+  display: block;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  height: auto;
+}
