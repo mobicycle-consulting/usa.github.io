@@ -1,19 +1,22 @@
 {
-  "name": "react-package",
-  "homepage": "https://www.mobicycle.us",
-  "scripts": {
-    "start": "parcel index.html"
-  },
-  "dependencies": {
-    "parcel-bundler": "^1.12.4",
-    "react-dom": "^17.0.1",
-    "react-router-dom": "^5.2.0",
-    "react": "^17.0.1"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.12.9",
-    "@babel/preset-env": "^7.12.7",
-    "@babel/preset-react": "^7.12.7",
-    "parcel-plugin-static-files-copy": "^2.5.0"
-  }
+    "name": "react-package",
+    "homepage": "https://mobicycle.us/",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "dependencies": {
+        "parcel-bundler": "^1.12.4",
+        "react-dom": "^17.0.1",
+        "react-router-dom": "^5.2.0",
+        "react": "^17.0.1"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.12.9",
+        "@babel/preset-env": "^7.12.7",
+        "@babel/preset-react": "^7.12.7",
+        "parcel-plugin-static-files-copy": "^2.5.0"
+    }
 }
