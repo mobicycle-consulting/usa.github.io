@@ -1,0 +1,27 @@
+.text {
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  min-height: 16px;
+  min-width: 37px;
+  white-space: nowrap;
+}
+.type-primary-si-e-state-default10 {
+  left: 339px;
+}
+.type-primary-si-e-state-default11 {
+  left: 335px;
+}
+.type-primary-si-e-state-default9 {
+  align-items: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px rgba(0,0,0,0.05);;
+  display: flex;
+  height: 30px;
+  left: 661px;
+  overflow: hidden;
+  padding: 0 9px;
+  position: absolute;
+  top: 16px;
+  width: 57px;
+}
