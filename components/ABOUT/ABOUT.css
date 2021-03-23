@@ -1,0 +1,47 @@
+.about2 {
+  align-items: flex-start;
+  display: flex;
+  height: 144px;
+  justify-content: flex-end;
+  margin-top: 16px;
+  min-width: 147px;
+}
+.overlap-group52 {
+  height: 220px;
+  margin-top: -36px;
+  position: relative;
+  width: 150px;
+}
+.rectangle5 {
+  height: 220px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 147px;
+}
+.what-is-ewaste {
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  top: 76px;
+  white-space: nowrap;
+  width: 130px;
+}
+.where-we-work {
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  top: 116px;
+  width: 150px;
+}
+.why-is-ewaste {
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+  width: 96px;
+}
