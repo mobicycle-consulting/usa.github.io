@@ -65,7 +65,6 @@ function MacBookPro1440(props) {
     frameProps,
     frame2Props,
     frame3Props,
-    frame2Props,
     frame4Props,
     frame5Props,
     frame6Props,
