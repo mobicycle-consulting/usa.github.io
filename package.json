@@ -2,7 +2,7 @@
     "name": "react-package",
     "homepage": "https://mobicycle.us/",
     "scripts": {
-        "start": "react-scripts start",
+        "start": "parcel index.html",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
