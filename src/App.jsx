@@ -1,12 +1,12 @@
 import React from "react";
 import { Switch, BrowserRouter as Router, Route } from "react-router-dom";
-import IPhoneSE320 from "./src/components/IPhoneSE320";
-import IPadMini768 from "./src/components/IPadMini768";
-import GooglePixel411 from "./src/components/GooglePixel411";
-import IPhone11414 from "./src/components/IPhone11414";
-import IPadPro1024 from "./src/components/IPadPro1024";
-import IMac1280 from "./src/components/IMac1280";
-import SurfaceBook1500 from "./src/components/SurfaceBook1500";
+import IPhoneSE320 from "./components/IPhoneSE320";
+import IPadMini768 from "./components/IPadMini768";
+import GooglePixel411 from "./components/GooglePixel411";
+import IPhone11414 from "./components/IPhone11414";
+import IPadPro1024 from "./components/IPadPro1024";
+import IMac1280 from "./components/IMac1280";
+import SurfaceBook1500 from "./components/SurfaceBook1500";
 
 function App() {
   return (
