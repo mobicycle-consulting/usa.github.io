@@ -1,5 +1,6 @@
 {
   "name": "react-package",
+  "homepage": "https://www.mobicycle.us",
   "scripts": {
     "start": "parcel index.html"
   },
