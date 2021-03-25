@@ -862,9 +862,6 @@ module.exports = {
         zIndex: ['responsive', 'focus-within', 'focus'],
     },
     plugins: [
-        require('@tailwindcss/forms'),
-        require('@tailwindcss/aspect-ratio'),
-        require('@tailwindcss/typography'),
-        require('tailwindcss-children'),
+
     ],
 }
