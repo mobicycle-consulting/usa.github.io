@@ -1,5 +1,9 @@
 /* ./src/index.css */
 
+
+/* use the @screen directive and reference the breakpoint by name:*/
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@tailwind screens;
