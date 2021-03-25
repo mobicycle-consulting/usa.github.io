@@ -4,8 +4,7 @@ import Home from './components/Home';
 
 function App() {
     return ( <
-        div className = "App" >
-        <
+        div class = "grid grid-cols-1 flex justify-center" > <
         Home / >
         <
         /div>
