@@ -6,7 +6,7 @@ import "../styles.css";
 const Home = () => {
     return (
         <div>
-            <h1>Coming Soon</h1>
+            <h1>We are currently offline for necessary maintenance. Please check back soon!</h1>
         </div>
     )
 }
