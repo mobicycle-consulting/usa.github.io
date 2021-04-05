@@ -1,14 +1,14 @@
+import logo from './logo.svg';
 import './App.css';
-import React from 'react';
+import Pricing from './components/Pricing';
 import Home from './components/Home';
 
 function App() {
-    return ( <
-        div class = "grid grid-cols-1 flex justify-center" > <
-        Home / >
-        <
-        /div>
-    );
+  return (
+    <div>
+      <Home/>;
+    </div>
+  );
 }
 
 export default App;
