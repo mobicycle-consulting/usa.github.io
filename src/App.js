@@ -1,12 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Pricing from './components/Pricing';
-import Home from './components/Home';
+import Pricing from './components/Pricing.jsx';
 
 function App() {
   return (
     <div>
-      <Home/>;
+      <Pricing/>;
     </div>
   );
 }
