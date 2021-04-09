@@ -1,10 +1,9 @@
-import './App.css';
-import Home from './components/Home.jsx';
+import Custom from './components/Custom';
 
 function App() {
   return (
     <div>
-      <Home/>;
+<Custom/>
     </div>
   );
 }
