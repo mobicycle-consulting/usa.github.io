@@ -1,30 +1,30 @@
-import React from 'react'
+import React from 'react';
+import { Link } from "react-router-dom";
 
 const Custom = () => {
     return (
         <div>
-          <div className="  max-width: 100%;
-height: auto;"> 
+          <div className="max-width: 100%; height: auto;"> 
   <nav className="relative px-10 py-8 bg-gray-500">
     <div className="flex justify-between items-center">
-      <a className="text-gray-600 text-2xl leading-none" href="https://mobicycle.tech"><img src="images/swirl-removebg-preview.png" alt="MobiCycle" width={20} /></a>
+      <a className="text-gray-600 text-2xl leading-none" href="https://mobicycle.tech"><img src="assets/color_logo_transparent.png" alt="MobiCycle" width={80} /></a>
       <div className="lg:hidden">
         <button className="block navbar-burger text-gray-50 hover:text-gray-200 focus:outline-none">
           <svg className="h-4 w-4" fill="currentColor " viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-            <title>Mobile menu</title>
+            <title>Menu</title>
             <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
           </svg>
         </button>
       </div>
       <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-12">
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">About</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Company</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Services</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Case Studies</a></li>
+      <Link to="/about"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">About</a></li></Link>
+      <Link to="/company"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Company</a></li></Link>
+      <Link to="/services"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Services</a></li></Link>
+      <Link to="/case-studies"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Case Studies</a></li></Link>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Sign in</a></li>
-        <li><a className="block px-6 py-3 text-sm text-gray-50 hover:text-gray-200 font-bold border border-gray-100 hover:border-gray-200 rounded" href="https://mobicycle.tech">Sign up</a></li>
+      <Link to="/sign-in"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Sign in</a></li></Link>
+      <Link to="/sign-up"><li><a className="block px-6 py-3 text-sm text-gray-50 hover:text-gray-200 font-bold border border-gray-100 hover:border-gray-200 rounded" href="https://mobicycle.tech">Sign up</a></li></Link>
       </ul>
     </div>
     <div className="hidden navbar-menu relative z-50">
@@ -71,7 +71,7 @@ height: auto;">
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">the electronic waste (e-waste) value chain</h3>
-              <p className="text-lg leading-loose text-gray-300">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
+              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@ height: auto;">
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">end the improper management of e-waste</h3>
-              <p className="text-lg leading-loose text-gray-300">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
+              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
             </div>
           </div>
         </div>
@@ -99,7 +99,7 @@ height: auto;">
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">sound collection, dismantling, recycling, and disposal</h3>
-              <p className="text-lg leading-loose text-gray-300">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
+              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
             </div>
           </div>
         </div>
@@ -113,7 +113,7 @@ height: auto;">
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">halt the burning of e-waste to obtain copper</h3>
-              <p className="text-lg leading-loose text-gray-300">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
+              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
             </div>
           </div>
         </div>
@@ -127,7 +127,7 @@ height: auto;">
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">handle ewaste in an environmentally sound manner</h3>
-              <p className="text-lg leading-loose text-gray-300">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
+              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
             </div>
           </div>
         </div>
@@ -141,7 +141,7 @@ height: auto;">
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">recover valuable components</h3>
-              <p className="text-lg leading-loose text-gray-300">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
+              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. More interesting writings for your customers.</p>
             </div>
           </div>
         </div>
@@ -151,10 +151,11 @@ height: auto;">
   <section className="py-20">
     <div className="container px-4 mx-auto">
       <div className="max-w-2xl mx-auto mb-12 text-center">
-        <span className="text-sm text-gray-200 uppercase">Get started</span>
+        <span className="text-sm text-gray-600 uppercase">Get started</span>
         <h2 className="mt-2 mb-4 text-4xl lg:text-5xl font-bold font-heading">tech to save the planet</h2>
         <p className="mb-6 text-lg text-gray-500 leading-loose">solutions to help your employees manage their electronic waste</p>
-        <a className="mr-6 text-lg text-gray-900 pb-2 border-b-4 border-gray-500" href="https://mobicycle.tech">Monthly</a><a className="text-lg text-gray-700 hover:text-gray-500 pb-2" href="https://mobicycle.tech">Yearly</a>
+        <a className="mr-6 text-lg text-gray-900 pb-2 border-b-4 border-gray-500" href="https://mobicycle.tech">Monthly</a>
+        <Link to="/yearly"><a className="text-lg text-gray-700 hover:text-gray-500 pb-2" href="https://mobicycle.tech">Yearly</a></Link>
       </div>
       <div className="flex flex-wrap items-center -mx-4 -mb-6 lg:mb-0">
         <div className="w-full lg:w-1/3 px-4 mb-6 lg:mb-0">
@@ -271,44 +272,49 @@ height: auto;">
         <div className="w-full lg:w-1/3 px-4 mb-12 lg:mb-0">
           <a className="text-gray-600 text-2xl leading-none" href="https://mobicycle.tech"><img className="h-8" src alt="" width="auto" /></a>
           <p className="mt-5 mb-6 max-w-xs text-gray-500 leading-loose">technology to save the planet</p>
-          <div><a className="inline-block h-6 mr-8" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/facebook.svg" alt="e" /></a><a className="inline-block h-6 mr-8" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/github.svg" alt="e" /></a><a className="inline-block h-6 mr-8" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/instagram.svg" alt="e" /></a><a className="inline-block h-6 mr-8" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/linkedin.svg" alt="e" /></a><a className="inline-block h-6" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/twitter.svg" alt="e" /></a></div>
+          <div>
+            <a className="inline-block h-6 mr-8" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/facebook.svg" alt="facebook" /></a>
+          <a className="inline-block h-6 mr-8" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/github.svg" alt="github" /></a>
+          <a className="inline-block h-6 mr-8" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/instagram.svg" alt="instagram" /></a>
+          <a className="inline-block h-6 mr-8" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/linkedin.svg" alt="linkedin" /></a>
+          <a className="inline-block h-6" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/twitter.svg" alt="twitter" /></a></div>
         </div>
         <div className="w-full lg:w-2/3 px-4">
           <div className="flex flex-wrap justify-between">
             <div className="w-1/2 lg:w-1/4 mb-8 lg:mb-0">
               <h3 className="mb-6 text-lg font-bold font-heading">Company</h3>
               <ul className="text-sm">
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">About Us</a></li>
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Careers</a></li>
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Press</a></li>
-                <li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Blog</a></li>
+                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">About Us</a></li></Link>
+                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Careers</a></li></Link>
+                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Press</a></li></Link>
+                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Blog</a></li></Link>
               </ul>
             </div>
             <div className="w-1/2 lg:w-1/4 mb-8 lg:mb-0">
               <h3 className="mb-6 text-lg font-bold font-heading">Services</h3>
               <ul className="text-sm">
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Login</a></li>
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Register</a></li>
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">FAQs</a></li>
-                <li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Contact</a></li>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Login</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Register</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">FAQs</a></li></Link>
+              <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Contact</a></li></Link>
               </ul>
             </div>
             <div className="w-1/2 lg:w-1/4 mb-8 lg:mb-0">
-              <h3 className="mb-6 text-lg font-bold font-heading">Legal</h3>
+            <h3 className="mb-6 text-lg font-bold font-heading">Legal</h3>
               <ul className="text-sm">
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Terms</a></li>
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">About Us</a></li>
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Team</a></li>
-                <li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Privacy</a></li>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Terms</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">About Us</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Team</a></li></Link>
+              <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Privacy</a></li></Link>
               </ul>
             </div>
             <div className="w-1/2 lg:w-1/4">
               <h3 className="mb-6 text-lg font-bold font-heading">Resources</h3>
               <ul className="text-sm">
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Blog</a></li>
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Service</a></li>
-                <li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Product</a></li>
-                <li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Pricing</a></li>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Blog</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Service</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Product</a></li></Link>
+              <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Pricing</a></li></Link>
               </ul>
             </div>
           </div>
