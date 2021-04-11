@@ -70,7 +70,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">the electronic waste (e-waste) value chain</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">upgrade the electronic waste (e-waste) value chain</h3>
               <p className="text-lg leading-loose text-gray-600">Does your city have tonnes of ewaste dismantled but yet to be recycled in the formal sector? Electronic waste are often sold as junk and dismembered to salvage parts before being discarded as ordinary waste.</p>
             </div>
           </div>
@@ -99,7 +99,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">sound collection, dismantling, recycling, and disposal</h3>
-              <p className="text-lg leading-loose text-gray-600">Proper disposal of e-waste begins with proper waste segregation. Get data to make informed decisions. eWaste Audits can help you identify weaknesses in your supply chain. </p>
+              <p className="text-lg leading-loose text-gray-600">Proper disposal of ewaste begins with proper waste segregation. Get data to make informed decisions. eWaste Audits can help you identify weaknesses in your supply chain. </p>
             </div>
           </div>
         </div>
