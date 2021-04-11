@@ -153,7 +153,7 @@ const Custom = () => {
       <div className="max-w-2xl mx-auto mb-12 text-center">
         <span className="text-sm text-gray-600 uppercase">Get started</span>
         <h2 className="mt-2 mb-4 text-4xl lg:text-5xl font-bold font-heading">tech to save the planet</h2>
-        <p className="mb-6 text-lg text-gray-500 leading-loose">solutions to help your employees manage their electronic waste</p>
+        <p className="mb-6 text-lg text-gray-500 leading-loose">Prices are per user. Minimum order quantities apply.</p>
         <a className="mr-6 text-lg text-gray-900 pb-2 border-b-4 border-gray-500" href="https://mobicycle.tech">Monthly</a>
         <Link to="/yearly"><a className="text-lg text-gray-700 hover:text-gray-500 pb-2" href="https://mobicycle.tech">Yearly</a></Link>
       </div>
@@ -168,7 +168,7 @@ const Custom = () => {
                 <svg className="mr-2 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                <p>per month per user</p>
+                <p>ewaste data APIs</p>
               </li>
               <li className="mb-2 flex items-center">
                 <svg className="mr-2 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -186,10 +186,10 @@ const Custom = () => {
                 <svg className="mr-2 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                <p>ewaste data APIs</p>
+                <p>and more!</p>
               </li>
             </ul>
-            <a className="block py-2 w-full text-center text-gray-50 font-semibold bg-gray-500 hover:bg-gray-600 rounded" href="https://mobicycle.tech">Buy now</a>
+            <a className="block py-2 w-full text-center text-gray-50 font-semibold bg-gray-500 hover:bg-gray-600 rounded" href="https://mobicycle.tech">Order now</a>
           </div>
         </div>
         <div className="w-full lg:w-1/3 px-4 mb-6 lg:mb-0">
@@ -202,7 +202,7 @@ const Custom = () => {
                 <svg className="mr-2 w-6 h-6 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                <p className="text-lg text-white">per month per user</p>
+                <p className="text-lg text-white">complete waste manifests quickly</p>
               </li>
               <li className="mb-2 flex items-center">
                 <svg className="mr-2 w-6 h-6 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -226,10 +226,10 @@ const Custom = () => {
                 <svg className="mr-2 w-6 h-6 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                <p className="text-lg text-white">complete waste manifests quickly</p>
+                <p className="text-lg text-white">and more!</p>
               </li>
             </ul>
-            <a className="block py-2 w-full text-center text-gray-800 font-semibold bg-white hover:bg-gray-50 rounded" href="https://mobicycle.tech">Buy now</a>
+            <a className="block py-2 w-full text-center text-gray-800 font-semibold bg-white hover:bg-gray-50 rounded" href="https://mobicycle.tech">Order now</a>
           </div>
         </div>
         <div className="w-full lg:w-1/3 px-4">
@@ -242,7 +242,7 @@ const Custom = () => {
                 <svg className="mr-2 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                <p>per month per user</p>
+                <p>track your ewaste</p>
               </li>
               <li className="mb-2 flex items-center">
                 <svg className="mr-2 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -260,10 +260,10 @@ const Custom = () => {
                 <svg className="mr-2 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                <p>track your ewaste</p>
+                <p>and more!</p>
               </li>
             </ul>
-            <a className="block py-2 w-full text-center text-gray-50 font-semibold bg-gray-500 hover:bg-gray-600 rounded" href="https://mobicycle.tech">Buy now</a>
+            <a className="block py-2 w-full text-center text-gray-50 font-semibold bg-gray-500 hover:bg-gray-600 rounded" href="https://mobicycle.tech">Order now</a>
           </div>
         </div>
       </div>
