@@ -71,7 +71,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">the electronic waste (e-waste) value chain</h3>
-              <p className="text-lg leading-loose text-gray-600">Does your city have tonnes of ewaste dismantled but yet to be recycled in the formal sector? Electronic waste are often sold as junk and end up in junk shops where they are dismembered to salvage parts before being discarded as ordinary waste.</p>
+              <p className="text-lg leading-loose text-gray-600">Does your city have tonnes of ewaste dismantled but yet to be recycled in the formal sector? Electronic waste are often sold as junk and dismembered to salvage parts before being discarded as ordinary waste.</p>
             </div>
           </div>
         </div>
@@ -99,7 +99,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">sound collection, dismantling, recycling, and disposal</h3>
-              <p className="text-lg leading-loose text-gray-600">Audit waste generation and report via a common platform. Proper disposal of e-waste begins with proper waste segregation and the implementation of the so-called 3Rs, which means reduce, reuse and recycle.</p>
+              <p className="text-lg leading-loose text-gray-600">Proper disposal of e-waste begins with proper waste segregation. Get data to make informed decisions. eWaste Audits can help you identify weaknesses in your supply chain. </p>
             </div>
           </div>
         </div>
@@ -113,7 +113,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">halt the burning of e-waste to obtain copper</h3>
-              <p className="text-lg leading-loose text-gray-600">Change to regular monitoring and data collection for waste management, incentivising private participation, capacity building for waste-pickers, drafting effective policies to incentivise, minimise, and take responsibility for the reuse and/or recycling used products.</p>
+              <p className="text-lg leading-loose text-gray-600">Regular monitoring and data collection for waste management is only a start. Incentivise your supply chain by building capacity for properly trained and equipped waste-pickers. Get help drafting effective policies to incentivise a sustainable economy.</p>
             </div>
           </div>
         </div>
