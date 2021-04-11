@@ -17,10 +17,10 @@ const Custom = () => {
         </button>
       </div>
       <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-12">
-      <Link to="/about"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">About</a></li></Link>
-      <Link to="/company"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Company</a></li></Link>
-      <Link to="/services"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Services</a></li></Link>
-      <Link to="/case-studies"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Case Studies</a></li></Link>
+      <Link to="/about"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://about.mobicycle.group">About</a></li></Link>
+      <Link to="/company"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Services</a></li></Link>
+      <Link to="/services"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://pricing.mobicycle.tech">Pricing</a></li></Link>
+      <Link to="/case-studies"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">Case Studies</a></li></Link>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
       <Link to="/sign-in"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Sign in</a></li></Link>
@@ -324,7 +324,7 @@ const Custom = () => {
         </div>
       </div>
       <div className="border-t border-gray-50 pt-8">
-        <p className="lg:text-center text-sm text-gray-400">All rights reserved © MobiCycle 2021</p>
+        <p className="lg:text-center text-sm text-gray-400">All rights reserved © MobiCycle 2021.</p>
       </div>
     </div>
   </footer>
