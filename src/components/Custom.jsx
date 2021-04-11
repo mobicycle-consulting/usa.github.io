@@ -160,7 +160,7 @@ const Custom = () => {
       <div className="flex flex-wrap items-center -mx-4 -mb-6 lg:mb-0">
         <div className="w-full lg:w-1/3 px-4 mb-6 lg:mb-0">
           <div className="p-12 bg-gray-50 rounded lg:text-center">
-            <h3 className="text-2xl font-bold text-gray-500">Starter</h3>
+            <h3 className="text-2xl font-bold text-gray-500">Small & Medium Companies</h3>
             <br></br>
             <span className="inline-block mb-6 text-5xl font-bold font-heading">$34.99</span>
             <ul className="mb-6 text-left text-lg">
@@ -194,7 +194,7 @@ const Custom = () => {
         </div>
         <div className="w-full lg:w-1/3 px-4 mb-6 lg:mb-0">
           <div className="p-12 bg-gray-500 rounded lg:text-center">
-            <h3 className="text-2xl font-bold text-gray-50">Pro</h3>
+            <h3 className="text-2xl font-bold text-gray-50">Public Sector</h3>
             <br></br>
             <span className="inline-block mb-6 text-5xl font-bold text-white">$65.99</span>
             <ul className="mb-6 text-left text-lg">
@@ -234,7 +234,7 @@ const Custom = () => {
         </div>
         <div className="w-full lg:w-1/3 px-4">
           <div className="p-12 bg-gray-50 rounded lg:text-center">
-            <h3 className="text-2xl font-bold text-gray-500">Premium</h3>
+            <h3 className="text-2xl font-bold text-gray-500">Large Corporations</h3>
             <br></br>
             <span className="inline-block mb-6 text-5xl font-bold font-heading">$99.99</span>
             <ul className="mb-6 text-left text-lg">
