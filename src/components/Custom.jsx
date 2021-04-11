@@ -71,7 +71,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">the electronic waste (e-waste) value chain</h3>
-              <p className="text-lg leading-loose text-gray-600">Does your city have tonnes of ewaste dismantled but yet to be recycled in the formal sector?</p>
+              <p className="text-lg leading-loose text-gray-600">Does your city have tonnes of ewaste dismantled but yet to be recycled in the formal sector? Electronic waste are often sold as junk and end up in junk shops where they are dismembered to salvage parts before being discarded as ordinary waste.</p>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">end the improper management of e-waste</h3>
-              <p className="text-lg leading-loose text-gray-600">improper handling or recycling of e-waste will cause serious environmental issues if dumped in landfills or dumping grounds</p>
+              <p className="text-lg leading-loose text-gray-600">Improper handling or recycling of e-waste will cause serious environmental issues if dumped in landfills or dumping grounds. Under the principle of EPR, manufacturers or producers will take back their waste.</p>
             </div>
           </div>
         </div>
@@ -99,7 +99,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">sound collection, dismantling, recycling, and disposal</h3>
-              <p className="text-lg leading-loose text-gray-600">Take care to develop evious projects. </p>
+              <p className="text-lg leading-loose text-gray-600">Audit waste generation and report via a common platform. Proper disposal of e-waste begins with proper waste segregation and the implementation of the so-called 3Rs, which means reduce, reuse and recycle.</p>
             </div>
           </div>
         </div>
@@ -113,7 +113,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">halt the burning of e-waste to obtain copper</h3>
-              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. </p>
+              <p className="text-lg leading-loose text-gray-600">Change to regular monitoring and data collection for waste management, incentivising private participation, capacity building for waste-pickers, drafting effective policies to incentivise, minimise, and take responsibility for the reuse and/or recycling used products.</p>
             </div>
           </div>
         </div>
@@ -127,7 +127,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">handle ewaste in an environmentally sound manner</h3>
-              <p className="text-lg leading-loose text-gray-600">Take care to develop </p>
+              <p className="text-lg leading-loose text-gray-600">Hazardous materials end up in open dumps and landfill facilities, even as the national policy and regulatory framework for the management of electronic waste or e-waste have long been in place.</p>
             </div>
           </div>
         </div>
@@ -141,7 +141,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">recover valuable components</h3>
-              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects.</p>
+              <p className="text-lg leading-loose text-gray-600">Waste streams are expanding at a skyrocketing pace as economies advance with rapid industrialization, better standards of living and technological innovations. Support ewaste policies to ensure that by pursuing sustainability in this sector we do not create new sustainability problems.</p>
             </div>
           </div>
         </div>
