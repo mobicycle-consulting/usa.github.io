@@ -71,7 +71,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">the electronic waste (e-waste) value chain</h3>
-              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. </p>
+              <p className="text-lg leading-loose text-gray-600">Does your city have tonnes of ewaste dismantled but yet to be recycled in the formal sector?</p>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">end the improper management of e-waste</h3>
-              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects.</p>
+              <p className="text-lg leading-loose text-gray-600">improper handling or recycling of e-waste will cause serious environmental issues if dumped in landfills or dumping grounds</p>
             </div>
           </div>
         </div>
@@ -99,7 +99,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">sound collection, dismantling, recycling, and disposal</h3>
-              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. </p>
+              <p className="text-lg leading-loose text-gray-600">Take care to develop evious projects. </p>
             </div>
           </div>
         </div>
@@ -127,7 +127,7 @@ const Custom = () => {
             </span>
             <div>
               <h3 className="mb-2 text-2xl font-bold font-heading">handle ewaste in an environmentally sound manner</h3>
-              <p className="text-lg leading-loose text-gray-600">Take care to develop resources continually and integrity them with previous projects. </p>
+              <p className="text-lg leading-loose text-gray-600">Take care to develop </p>
             </div>
           </div>
         </div>
