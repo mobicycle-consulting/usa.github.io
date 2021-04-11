@@ -189,7 +189,7 @@ const Custom = () => {
                 <p>ewaste data APIs</p>
               </li>
             </ul>
-            <a className="block py-2 w-full text-center text-gray-50 font-semibold bg-gray-500 hover:bg-gray-600 rounded" href="https://mobicycle.tech">Learn more</a>
+            <a className="block py-2 w-full text-center text-gray-50 font-semibold bg-gray-500 hover:bg-gray-600 rounded" href="https://mobicycle.tech">Buy now</a>
           </div>
         </div>
         <div className="w-full lg:w-1/3 px-4 mb-6 lg:mb-0">
@@ -229,7 +229,7 @@ const Custom = () => {
                 <p className="text-lg text-white">complete waste manifests quickly</p>
               </li>
             </ul>
-            <a className="block py-2 w-full text-center text-gray-800 font-semibold bg-white hover:bg-gray-50 rounded" href="https://mobicycle.tech">Learn more</a>
+            <a className="block py-2 w-full text-center text-gray-800 font-semibold bg-white hover:bg-gray-50 rounded" href="https://mobicycle.tech">Buy now</a>
           </div>
         </div>
         <div className="w-full lg:w-1/3 px-4">
@@ -263,7 +263,7 @@ const Custom = () => {
                 <p>track your ewaste</p>
               </li>
             </ul>
-            <a className="block py-2 w-full text-center text-gray-50 font-semibold bg-gray-500 hover:bg-gray-600 rounded" href="https://mobicycle.tech">Learn more</a>
+            <a className="block py-2 w-full text-center text-gray-50 font-semibold bg-gray-500 hover:bg-gray-600 rounded" href="https://mobicycle.tech">Buy now</a>
           </div>
         </div>
       </div>
