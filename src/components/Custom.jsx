@@ -23,8 +23,8 @@ const Custom = () => {
       <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">Case Studies</a></li>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
-      <Link to="/sign-in"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Sign in</a></li></Link>
-      <Link to="/sign-up"><li><a className="block px-6 py-3 text-sm text-gray-50 hover:text-gray-200 font-bold border border-gray-100 hover:border-gray-200 rounded" href="https://mobicycle.tech">Sign up</a></li></Link>
+      <Link to="/signin"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Sign in</a></li></Link>
+      <Link to="/signup"><li><a className="block px-6 py-3 text-sm text-gray-50 hover:text-gray-200 font-bold border border-gray-100 hover:border-gray-200 rounded" href="https://mobicycle.tech">Sign up</a></li></Link>
       </ul>
     </div>
     <div className="hidden navbar-menu relative z-50">
