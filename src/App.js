@@ -3,7 +3,7 @@ import Custom from './components/Custom';
 function App() {
   return (
     <div>
-<Custom/>
+        <Custom/>
     </div>
   );
 }
