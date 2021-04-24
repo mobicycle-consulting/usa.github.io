@@ -8,7 +8,11 @@ const Home = () => {
   <div className="flex flex-wrap">
     <div className="pt-6 lg:pt-16 pb-6 w-full lg:w-1/2">
       <div className="max-w-md mx-auto">
-        <div className="mb-6 lg:mb-20 w-full px-3 flex items-center justify-between"><a className="text-white text-3xl font-bold leading-none" href="#"><img className="h-12" src="atis-assets/logo/atis/atis-color-white.svg" alt width="auto" /></a><a className="py-2 px-6 text-xs rounded-l-xl rounded-t-xl bg-purple-600 hover:bg-purple-700 text-white font-bold transition duration-200" href="#">Sign In</a></div>
+        <div className="mb-6 lg:mb-20 w-full px-3 flex items-center justify-between">
+          <a className="text-white text-3xl font-bold leading-none" href="#">
+          <img className="h-12" src="atis-assets/logo/atis/atis-color-white.svg" alt width="auto" /></a>
+          <a className="py-2 px-6 text-xs rounded-l-xl rounded-t-xl bg-purple-600 hover:bg-purple-700 text-white font-bold transition duration-200" href="#">Sign In</a>
+          </div>
         <div>
           <div className="mb-6 px-3">
             <span className="text-gray-500">Sign Up</span>
