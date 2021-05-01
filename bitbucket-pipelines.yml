@@ -11,7 +11,7 @@ pipelines:
             - cd build
             - zip -r ../mobicycle-$BITBUCKET_BUILD_NUMBER.zip .
           artifacts: 
-            - example-*.zip
+            - mobicycle-*.zip
       - step:
           name: "Deploy to Azure"
           script:
