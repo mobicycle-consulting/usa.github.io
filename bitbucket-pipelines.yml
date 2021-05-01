@@ -1,8 +1,7 @@
 image: atlassian/default-image:2
 
 pipelines:
-  custom:
-    azure:
+  default:
       - step:
           name: "Build"
           script:
@@ -10,7 +9,7 @@ pipelines:
             - npm install
             - npm run build
             - cd build
-            - zip -r ../example-$BITBUCKET_BUILD_NUMBER.zip .
+            - zip -r ../mobicycle-$BITBUCKET_BUILD_NUMBER.zip .
           artifacts: 
             - example-*.zip
       - step:
@@ -24,4 +23,4 @@ pipelines:
                 AZURE_TENANT_ID: $AZURE_TENANT_ID
                 AZURE_RESOURCE_GROUP: $RESOURCE_GROUP
                 AZURE_APP_NAME: $APP_NAME
-                ZIP_FILE: 'example-$BITBUCKET_BUILD_NUMBER.zip'
+                ZIP_FILE: 'mobicycle-$BITBUCKET_BUILD_NUMBER.zip'
