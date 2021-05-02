@@ -18,7 +18,19 @@ steps:
     versionSpec: '14.x'
   displayName: 'Install Node.js'
 
+- checkout: self
+  submodules: true
+- task: AzureStaticWebApp@0
+  inputs:
+    app_location: '/'
+    api_location: 'api'
+    output_location: ''
+  env:
+    azure_static_web_apps_api_token: $(deployment_token)
+
 - script: |
     npm install
     npm run build
   displayName: 'npm install and build'
+
+
