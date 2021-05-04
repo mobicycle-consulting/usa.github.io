@@ -18,9 +18,9 @@ const Custom = () => {
       </div>
       <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-12">
       <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://about.mobicycle.group">Who we are</a></li>
-      <Link to="/company"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">What we do</a></li></Link>
-      <Link to="/pricing"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://pricing.mobicycle.tech">Pricing</a></li></Link>
       <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">Case Studies</a></li>
+      <Link to="/pricing"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://pricing.mobicycle.tech">Pricing</a></li></Link>
+      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.news">News</a></li>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
       <Link to="/signin"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Sign in</a></li></Link>
