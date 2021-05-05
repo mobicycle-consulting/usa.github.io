@@ -20,6 +20,8 @@ const Custom = () => {
       <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://about.mobicycle.group">Who we are</a></li>
       <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">Case Studies</a></li>
       <Link to="/pricing"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://pricing.mobicycle.tech">Pricing</a></li></Link>
+      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Tech</a></li>
+      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.marketing">Marketing</a></li>
       <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.news">News</a></li>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
