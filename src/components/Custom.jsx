@@ -16,20 +16,22 @@ const Custom = () => {
           </svg>
         </button>
       </div>
-      <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-12">
-      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://about.mobicycle.group">Who we are</a></li>
-      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">Case Studies</a></li>
-      <Link to="/pricing"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://pricing.mobicycle.tech">Pricing</a></li></Link>
-      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://bins.mobi">MobiBins</a></li>
-      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Tech</a></li>
-      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.games">Games</a></li>
-      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.marketing">Marketing</a></li>
-      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.news">News</a></li>
-      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.support">Support</a></li>
+      <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-16">
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://about.mobicycle.group">About</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">Case Studies</a></li>
+        <Link to="/pricing"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://pricing.mobicycle.tech">Pricing</a></li></Link>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://bins.mobi">MobiBins</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.games">Games</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.marketing">Marketing</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.news">News</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.support">Support</a></li>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
-      <Link to="/signin"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Sign in</a></li></Link>
-      <Link to="/signup"><li><a className="block px-6 py-3 text-sm text-gray-50 hover:text-gray-200 font-bold border border-gray-100 hover:border-gray-200 rounded" href="https://mobicycle.tech">Sign up</a></li></Link>
+      <Link to="/signup">
+        <li>
+        <a className="block px-6 py-3 text-sm text-gray-50 hover:text-gray-200 font-bold border border-gray-100 hover:border-gray-200 rounded" href="https://mobicycle.tech">Sign up</a>
+        </li>
+      </Link>
       </ul>
     </div>
     <div className="hidden navbar-menu relative z-50">
