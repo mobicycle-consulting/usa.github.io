@@ -17,13 +17,12 @@ const Custom = () => {
         </button>
       </div>
       <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-16">
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://about.mobicycle.group">About</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">Case Studies</a></li>
-        <Link to="/pricing"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://pricing.mobicycle.tech">Pricing</a></li></Link>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">About</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">ewaste Apps</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://bins.mobi">MobiBins</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.games">Games</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.games">WEEEDU</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.marketing">Marketing</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.news">News</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.news">MobiNews</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.support">Support</a></li>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
@@ -47,10 +46,10 @@ const Custom = () => {
         </div>
         <div>
           <ul>
-            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">About</a></li>
-            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">Company</a></li>
-            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">Services</a></li>
-            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">Case Studies</a></li>
+            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://about.mobicycle.group">About</a></li>
+            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://careers.mobicycle.group">Careers</a></li>
+            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">Tech</a></li>
+            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.games">Games</a></li>
           </ul>
         </div>
         <div className="mt-auto">
@@ -91,7 +90,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">Games</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">WEEEDU</h3>
               <p className="text-lg leading-loose text-gray-600">Improper handling or recycling of e-waste will cause serious environmental issues if dumped in landfills or dumping grounds. WEEEDU is a game to teach us how to reclaim our waste.</p>
             </div>
           </div>
