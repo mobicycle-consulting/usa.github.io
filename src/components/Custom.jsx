@@ -77,7 +77,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">upgrade the electronic waste (e-waste) value chain</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">Consulting</h3>
               <p className="text-lg leading-loose text-gray-600">Does your city have tonnes of ewaste dismantled but yet to be recycled in the formal sector? Electronic waste are often sold as junk and dismembered to salvage parts before being discarded as ordinary waste.</p>
             </div>
           </div>
@@ -91,8 +91,8 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">end the improper management of e-waste</h3>
-              <p className="text-lg leading-loose text-gray-600">Improper handling or recycling of e-waste will cause serious environmental issues if dumped in landfills or dumping grounds. Under the principle of EPR, manufacturers or producers will take back their waste.</p>
+              <h3 className="mb-2 text-2xl font-bold font-heading">Games</h3>
+              <p className="text-lg leading-loose text-gray-600">Improper handling or recycling of e-waste will cause serious environmental issues if dumped in landfills or dumping grounds. WEEEDU is a game to teach us how to reclaim our waste.</p>
             </div>
           </div>
         </div>
@@ -105,7 +105,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">sound collection, dismantling, recycling, and disposal</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">MobiBins</h3>
               <p className="text-lg leading-loose text-gray-600">Proper disposal of ewaste begins with proper waste segregation. Get data to make informed decisions. eWaste Audits can help you identify weaknesses in your supply chain. </p>
             </div>
           </div>
@@ -119,7 +119,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">halt the burning of e-waste to obtain copper</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">eWaste Code Finder</h3>
               <p className="text-lg leading-loose text-gray-600">Regular monitoring and data collection for waste management is only a start. Incentivise your supply chain by building capacity for properly trained and equipped waste-pickers. Get help drafting effective policies to incentivise a sustainable economy.</p>
             </div>
           </div>
@@ -133,7 +133,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">handle ewaste in an environmentally sound manner</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">eWaste Standards Tool</h3>
               <p className="text-lg leading-loose text-gray-600">Hazardous materials end up in open dumps and landfill facilities, even as the national policy and regulatory framework for the management of electronic waste or e-waste have long been in place.</p>
             </div>
           </div>
@@ -147,7 +147,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">recover valuable components</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">Marketing</h3>
               <p className="text-lg leading-loose text-gray-600">Waste streams are expanding at a skyrocketing pace as economies advance with rapid industrialization, better standards of living and technological innovations. Support ewaste policies to ensure that by pursuing sustainability in this sector we do not create new sustainability problems.</p>
             </div>
           </div>
