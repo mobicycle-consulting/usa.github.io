@@ -18,8 +18,8 @@ const Custom = () => {
       </div>
       <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-14">
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">About</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://ewaste.directory">eWaste Code Finder</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://ewaste.app">eWaste Standards Tool</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://ewaste.directory">Code Finder</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://ewaste.app">Standards Tool</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://bins.mobi">MobiBins</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://weeedu.games">WEEEDU</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.support">Support</a></li>
