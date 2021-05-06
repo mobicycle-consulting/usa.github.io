@@ -21,7 +21,7 @@ const Custom = () => {
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://ewaste.directory">eWaste Code Finder</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://ewaste.app">eWaste Standards Tool</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://bins.mobi">MobiBins</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://weeedu.games">WEEEDU</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://weeedu.games">WEEEDU</a></li>cd 
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.support">Support</a></li>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
