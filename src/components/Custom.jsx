@@ -315,7 +315,7 @@ const Custom = () => {
               <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Tech</a></li></Link>
               <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.consulting">Consulting</a></li></Link>
               <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.support">Support</a></li></Link>
-              <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Pricing</a></li></Link>
+              <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://pricing.mobicycle.group">Pricing</a></li></Link>
               </ul>
             </div>
           </div>
