@@ -271,7 +271,7 @@ const Custom = () => {
     <div className="container px-4 mx-auto">
       <div className="flex flex-wrap -mx-4 mb-8 lg:mb-16">
         <div className="w-full lg:w-1/3 px-4 mb-12 lg:mb-0">
-          <a className="text-gray-600 text-2xl leading-none" href="https://mobicycle.tech"><img className="h-8" src alt="" width="auto" /></a>
+          <a className="text-gray-600 text-2xl leading-none" href="https://mobicycle.tech"><img className="h-8" src alt="" width="auto" />eWaste by MobiCycle</a>
           <p className="mt-5 mb-6 max-w-xs text-gray-500 leading-loose">technology to save the planet</p>
           <div>
             <a className="inline-block h-6 mr-8" href="https://mobicycle.tech"><img className="mx-auto" src="mockup-assets/socials/facebook.svg" alt="facebook" /></a>
@@ -283,7 +283,7 @@ const Custom = () => {
         <div className="w-full lg:w-2/3 px-4">
           <div className="flex flex-wrap justify-between">
             <div className="w-1/2 lg:w-1/4 mb-8 lg:mb-0">
-              <h3 className="mb-6 text-lg font-bold font-heading">Company</h3>
+              <h3 className="mb-6 text-lg font-bold font-heading">Areas</h3>
               <ul className="text-sm">
                 <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://about.mobicycle.group">About Us</a></li></Link>
                 <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://careers.mobicycle.group">Careers</a></li></Link>
