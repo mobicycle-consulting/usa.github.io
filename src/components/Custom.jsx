@@ -292,12 +292,12 @@ const Custom = () => {
               </ul>
             </div>
             <div className="w-1/2 lg:w-1/4 mb-8 lg:mb-0">
-              <h3 className="mb-6 text-lg font-bold font-heading">Services</h3>
+              <h3 className="mb-6 text-lg font-bold font-heading">Join Us</h3>
               <ul className="text-sm">
-              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Login</a></li></Link>
-              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Register</a></li></Link>
-              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">FAQs</a></li></Link>
-              <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Contact</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://login.mobicycle.group">Login</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://signup.mobicycle.group">Register</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://faqs.mobicycle.group">FAQs</a></li></Link>
+              <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://pricing.mobicycle.group">Pricing</a></li></Link>
               </ul>
             </div>
             <div className="w-1/2 lg:w-1/4 mb-8 lg:mb-0">
