@@ -303,10 +303,10 @@ const Custom = () => {
             <div className="w-1/2 lg:w-1/4 mb-8 lg:mb-0">
             <h3 className="mb-6 text-lg font-bold font-heading">Legal</h3>
               <ul className="text-sm">
-              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Terms</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://terms.mobicycle.group">Terms</a></li></Link>
               <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">About Us</a></li></Link>
-              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Team</a></li></Link>
-              <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Privacy</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech"></a></li></Link>
+              <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://privacy.mobicycle.group">Privacy</a></li></Link>
               </ul>
             </div>
             <div className="w-1/2 lg:w-1/4">
