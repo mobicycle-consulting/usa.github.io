@@ -18,11 +18,9 @@ const Custom = () => {
       </div>
       <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-14">
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">About</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">ewaste Apps</a></li>
+        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">eWaste Code Finder</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://bins.mobi">MobiBins</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.games">WEEEDU</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.marketing">Marketing</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.news">MobiNews</a></li>
         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.support">Support</a></li>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
@@ -287,10 +285,10 @@ const Custom = () => {
             <div className="w-1/2 lg:w-1/4 mb-8 lg:mb-0">
               <h3 className="mb-6 text-lg font-bold font-heading">Company</h3>
               <ul className="text-sm">
-                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">About Us</a></li></Link>
-                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Careers</a></li></Link>
-                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Press</a></li></Link>
-                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Blog</a></li></Link>
+                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://about.mobicycle.group">About Us</a></li></Link>
+                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://careers.mobicycle.group">Careers</a></li></Link>
+                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.marketing">Marketing</a></li></Link>
+                <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.games">Games</a></li></Link>
               </ul>
             </div>
             <div className="w-1/2 lg:w-1/4 mb-8 lg:mb-0">
@@ -314,9 +312,9 @@ const Custom = () => {
             <div className="w-1/2 lg:w-1/4">
               <h3 className="mb-6 text-lg font-bold font-heading">Resources</h3>
               <ul className="text-sm">
-              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Blog</a></li></Link>
-              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Service</a></li></Link>
-              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Product</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Tech</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.consulting">Consulting</a></li></Link>
+              <Link><li className="mb-4"><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.support">Support</a></li></Link>
               <Link><li><a className="text-gray-500 hover:text-gray-600" href="https://mobicycle.tech">Pricing</a></li></Link>
               </ul>
             </div>
