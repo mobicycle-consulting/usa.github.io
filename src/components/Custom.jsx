@@ -13,25 +13,18 @@ const Custom = () => {
           <svg className="h-4 w-4" fill="currentColor " viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
             <title>Menu</title>
             <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
-           </svg>
-         </button>
-       </div>
-       <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-16">
-       <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-14">
-         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">About</a></li>
-         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">ewaste Apps</a></li>
-         <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://bins.mobi">MobiBins</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.games">WEEEDU</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.marketing">Marketing</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.news">MobiNews</a></li>
-        <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.support">Support</a></li>
+          </svg>
+        </button>
+      </div>
+      <ul className="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex ml-auto mr-auto items-center w-auto space-x-12">
+      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://about.mobicycle.group">Who we are</a></li>
+      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://case-studies.mobicycle.group">Case Studies</a></li>
+      <Link to="/pricing"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://pricing.mobicycle.tech">Pricing</a></li></Link>
+      <li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.news">News</a></li>
       </ul>
       <ul className="hidden lg:flex items-center w-auto space-x-12">
-      <Link to="/signup">
-        <li>
-        <a className="block px-6 py-3 text-sm text-gray-50 hover:text-gray-200 font-bold border border-gray-100 hover:border-gray-200 rounded" href="https://mobicycle.tech">Sign up</a>
-        </li>
-      </Link>
+      <Link to="/signin"><li><a className="text-sm text-gray-50 hover:text-gray-200" href="https://mobicycle.tech">Sign in</a></li></Link>
+      <Link to="/signup"><li><a className="block px-6 py-3 text-sm text-gray-50 hover:text-gray-200 font-bold border border-gray-100 hover:border-gray-200 rounded" href="https://mobicycle.tech">Sign up</a></li></Link>
       </ul>
     </div>
     <div className="hidden navbar-menu relative z-50">
@@ -47,10 +40,10 @@ const Custom = () => {
         </div>
         <div>
           <ul>
-            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://about.mobicycle.group">About</a></li>
-            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://careers.mobicycle.group">Careers</a></li>
-            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">Tech</a></li>
-            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.games">Games</a></li>
+            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">About</a></li>
+            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">Company</a></li>
+            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">Services</a></li>
+            <li className="mb-1"><a className="block p-4 text-sm font-semibold text-gray-900 hover:bg-gray-50 rounded" href="https://mobicycle.tech">Case Studies</a></li>
           </ul>
         </div>
         <div className="mt-auto">
@@ -77,7 +70,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">Consulting</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">upgrade the electronic waste (e-waste) value chain</h3>
               <p className="text-lg leading-loose text-gray-600">Does your city have tonnes of ewaste dismantled but yet to be recycled in the formal sector? Electronic waste are often sold as junk and dismembered to salvage parts before being discarded as ordinary waste.</p>
             </div>
           </div>
@@ -91,8 +84,8 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">WEEEDU</h3>
-              <p className="text-lg leading-loose text-gray-600">Improper handling or recycling of e-waste will cause serious environmental issues if dumped in landfills or dumping grounds. WEEEDU is a game to teach us how to reclaim our waste.</p>
+              <h3 className="mb-2 text-2xl font-bold font-heading">end the improper management of e-waste</h3>
+              <p className="text-lg leading-loose text-gray-600">Improper handling or recycling of e-waste will cause serious environmental issues if dumped in landfills or dumping grounds. Under the principle of EPR, manufacturers or producers will take back their waste.</p>
             </div>
           </div>
         </div>
@@ -105,7 +98,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">MobiBins</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">sound collection, dismantling, recycling, and disposal</h3>
               <p className="text-lg leading-loose text-gray-600">Proper disposal of ewaste begins with proper waste segregation. Get data to make informed decisions. eWaste Audits can help you identify weaknesses in your supply chain. </p>
             </div>
           </div>
@@ -119,7 +112,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">eWaste Code Finder</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">halt the burning of e-waste to obtain copper</h3>
               <p className="text-lg leading-loose text-gray-600">Regular monitoring and data collection for waste management is only a start. Incentivise your supply chain by building capacity for properly trained and equipped waste-pickers. Get help drafting effective policies to incentivise a sustainable economy.</p>
             </div>
           </div>
@@ -133,7 +126,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">eWaste Standards Tool</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">handle ewaste in an environmentally sound manner</h3>
               <p className="text-lg leading-loose text-gray-600">Hazardous materials end up in open dumps and landfill facilities, even as the national policy and regulatory framework for the management of electronic waste or e-waste have long been in place.</p>
             </div>
           </div>
@@ -147,7 +140,7 @@ const Custom = () => {
               </svg>
             </span>
             <div>
-              <h3 className="mb-2 text-2xl font-bold font-heading">Marketing</h3>
+              <h3 className="mb-2 text-2xl font-bold font-heading">recover valuable components</h3>
               <p className="text-lg leading-loose text-gray-600">Waste streams are expanding at a skyrocketing pace as economies advance with rapid industrialization, better standards of living and technological innovations. Support ewaste policies to ensure that by pursuing sustainability in this sector we do not create new sustainability problems.</p>
             </div>
           </div>
@@ -333,5 +326,5 @@ const Custom = () => {
         </div>
     )
 }
-export default Custom
 
+export default Custom
