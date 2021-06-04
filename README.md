@@ -1,1 +1,0 @@
-MobiCycle USA - COMING SOON
